@@ -1,0 +1,444 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Useful Sass mixins</title>
+
+    <meta name="description" content="  Vendor Prefixing">
+
+    <link rel="author" href="https://plus.google.com/+">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="generator" content="Jekyll v2.4.0">
+
+    <link rel="shortcut icon" href="../../../favicon.ico" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="../../../apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../../../apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../../../apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../../../apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../../../apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../../../apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../../../apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../../../apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="../../../android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../../../favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../favicon-16x16.png">
+    <link rel="manifest" href="../../../manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#222222">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@ronaldsvilcins">
+    <meta name="twitter:creator" content="@ronaldsvilcins">
+    <meta name="twitter:title" content="Useful Sass mixins">
+    <meta name="twitter:description" content="  Vendor Prefixing">
+    <meta name="twitter:image" content="http://vilcins.lv/img/logo.png">
+    <meta name="twitter:url" content="http://vilcins.lv/blog/2015/Useful-Sass-mixins/">
+
+
+
+
+    <meta property="og:title" content="Useful Sass mixins">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://vilcins.lv/blog/2015/Useful-Sass-mixins/">
+    <meta property="og:image" content="http://vilcins.lv/img/logo.png">
+    <meta property="og:description" content="  Vendor Prefixing">
+    <meta property="og:site_name" content="Ronalds Vilcins">
+    <meta property="og:locale" content="en_us">
+
+    
+
+    
+    <meta property="article:published_time" content="2015-05-23T00:00:00+00:00">
+    <meta property="article:author" content="https://www.facebook.com/ronalds.vilcins">
+      
+    <meta property="og:see_also" content="http://vilcins.lv/blog/2015/Places-where-learn-how-to-code/">
+      
+    <meta property="og:see_also" content="http://vilcins.lv/blog/2015/Resources-for-creating-a-typeface/">
+      
+    <meta property="og:see_also" content="http://vilcins.lv/blog/2015/Powerful-CSS-tools/">
+      
+    
+
+    
+      
+    
+
+    
+      
+    <meta property="article:tag" content="sass">
+      
+    
+    <meta property="fb:admins" content="http://facebook.com/ronalds.vilcins">
+    <meta property="fb:app_id" content="162151797206468">
+
+    <link rel="canonical" href="index.html" />
+    <link rel="alternate" type="application/atom+xml" href="../../feed.atom" />
+
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="http://code.cdn.mozilla.net/fonts/fira.css">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-34932398-3', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div class="page-wrap">
+
+
+<section class="main-header regular">
+
+    <div class="vertical-container">
+
+    	<div class="wrapper clearfix">
+
+	        <header>
+	        	<a href="../../../index.html">
+		            <h1 id="main-title">Ronalds Vilcins</h1>
+	        	</a>
+	        </header>
+
+	        <nav id="main-nav" role="navigation">
+				<a href="../../../about/index.html" class="">About</a>
+				<a href="../../index.html" class="">Blog</a>
+				<a href="../../../contact/index.html" class="">Contact</a>
+			</nav>
+
+		</div>
+
+    </div>
+
+</section>
+
+
+<article class="main-content">
+
+    <div class="wrapper">
+
+        <header class="section-header">
+            <h1 class="section-title">Useful Sass mixins</h1>
+            <span class="section-subtitle"><time datetime="2015-05-23 00:00:00 +0000" pubdate>23 May 2015</time>
+              , Taggged in: <a href="../../tags/sass.html">sass</a>
+							</p></span>
+        </header>
+
+        <section class="post-content">
+          
+        	<ul>
+  <li>Vendor Prefixing</li>
+</ul>
+
+<pre>
+@mixin prefix($property, $value, $vendors: webkit moz ms o) {
+      @if $vendors {
+        @each $vendor in $vendors {
+          #{"-" + $vendor + "-" + $property}: #{$value};
+        }
+      }
+      #{$property}: #{$value};
+}
+</pre>
+
+<p>Usage: <code>@include prefix(transform, rotate(42deg), webkit ms);</code></p>
+
+<p>Thanks <a href="http://www.sitepoint.com/sass-mixins-kickstart-project/">Hugo</a> for this mixin!</p>
+
+<ul>
+  <li>Rem font size with pixel fallback</li>
+</ul>
+
+<pre>
+@function calculateRem($size) {
+  $remSize: $size / 14px;
+  @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+</pre>
+
+<p>Usage: <code>@include font-size(18px);</code></p>
+
+<ul>
+  <li>Black and white opacity</li>
+</ul>
+
+<pre>
+@function black($opacity){
+    @return rgba(0,0,0,$opacity)
+}
+@function white($opacity){
+    @return rgba(255,255,255,$opacity)
+}
+</pre>
+
+<p>Usage: <code>background:black(0.25);</code></p>
+
+<p>Thanks <a href="http://sachagreif.com/useful-sass-mixins/">Sacha</a> for this mixin!</p>
+
+<ul>
+  <li>Image replacement and hiding text</li>
+</ul>
+
+<pre>
+@mixin hide-text{
+    overflow:hidden;
+    text-indent:-9000px;
+    display:block;
+}
+</pre>
+
+<p>Usage: <code>@include hide-text;</code></p>
+
+<ul>
+  <li>Animations and and keyframes</li>
+</ul>
+
+<pre>
+@mixin keyframes($animation-name) {
+  @-webkit-keyframes $animation-name {
+    @content;
+  }
+  @-moz-keyframes $animation-name {
+    @content;
+  }  
+  @-ms-keyframes $animation-name {
+    @content;
+  }
+  @-o-keyframes $animation-name {
+    @content;
+  }  
+  @keyframes $animation-name {
+    @content;
+  }
+}
+
+@mixin animation($str) {
+  -webkit-animation: #{$str};
+  -moz-animation: #{$str};
+  -ms-animation: #{$str};
+  -o-animation: #{$str};
+  animation: #{$str};
+}
+</pre>
+
+<p>Usage: <code>@include animation('slide-left 5s 3');</code></p>
+
+<ul>
+  <li>Transitions</li>
+</ul>
+
+<pre>
+@mixin transition($transition-property, $transition-time, $method) {
+    -webkit-transition: $transition-property $transition-time $method;
+    -moz-transition: $transition-property $transition-time $method;
+    -ms-transition: $transition-property $transition-time $method;
+    -o-transition: $transition-property $transition-time $method;
+    transition: $transition-property $transition-time $method;
+}
+</pre>
+
+<p>Usage: <code>@include transition(all, 0.2s, ease-in-out);</code></p>
+
+<ul>
+  <li>Opacity in all major browsers</li>
+</ul>
+
+<pre>
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie); //IE8
+}
+</pre>
+
+<p>Usage: <code>@include opacity(0.8);</code></p>
+
+<p>Thanks <a href="https://web-design-weekly.com/2013/05/12/handy-sass-mixins/">Jake</a> for this mixin!</p>
+
+<ul>
+  <li>Breakpoints</li>
+</ul>
+
+<pre>
+@mixin breakpoint($point) {
+      @if $point == large {
+      @media (min-width: 64.375em) { @content; }
+}
+      @else if $point == medium {
+      @media (min-width: 50em) { @content; }
+}
+      @else if $point == small {
+      @media (min-width: 37.5em) { @content; }
+ }
+}
+</pre>
+
+<p>Usage: <code>@include breakpoint(large) { width: 60%; }</code></p>
+
+<p>Thanks <a href="https://web-design-weekly.com/2013/05/12/handy-sass-mixins/">Jake</a> for this mixin!</p>
+
+<ul>
+  <li>Clearfix</li>
+</ul>
+
+<pre>
+@mixin clearfix() {
+    &amp;:before,
+    &amp;:after {
+        content: "";
+        display: table;
+    }
+    &amp;:after {
+        clear: both;
+    }
+}
+</pre>
+
+<p>Usage: <code>@include clearfix();</code></p>
+
+<p>Thanks <a href="http://nicolasgallagher.com/micro-clearfix-hack/">Nicolas</a> for this mixin!</p>
+
+<ul>
+  <li>Box Sizing</li>
+</ul>
+
+<pre>
+@mixin box-sizing($box-model) {
+  -webkit-box-sizing: $box-model; // Safari &lt;= 5
+     -moz-box-sizing: $box-model; // Firefox &lt;= 19
+          box-sizing: $box-model;
+}
+</pre>
+
+<p>Usage: <code>@include box-sizing(border-box);</code></p>
+
+<p>Thanks <a href="https://web-design-weekly.com/2013/05/12/handy-sass-mixins/">Jake</a> for this mixin!</p>
+
+<ul>
+  <li>Border Radius</li>
+</ul>
+
+<pre>
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+  background-clip: padding-box;  
+}
+@mixin border-top-radius($radius) {
+  -webkit-border-top-right-radius: $radius;
+  border-top-right-radius: $radius;
+   -webkit-border-top-left-radius: $radius;
+   border-top-left-radius: $radius;
+   background-clip: padding-box;
+}
+@mixin border-right-radius($radius) {
+  -webkit-border-bottom-right-radius: $radius;
+  border-bottom-right-radius: $radius;
+     -webkit-border-top-right-radius: $radius;
+     border-top-right-radius: $radius;
+     background-clip: padding-box;
+}
+@mixin border-bottom-radius($radius) {
+  -webkit-border-bottom-right-radius: $radius;
+  border-bottom-right-radius: $radius;
+   -webkit-border-bottom-left-radius: $radius;
+   border-bottom-left-radius: $radius;
+   background-clip: padding-box;
+}
+@mixin border-left-radius($radius) {
+  -webkit-border-bottom-left-radius: $radius;
+  border-bottom-left-radius: $radius;
+     -webkit-border-top-left-radius: $radius;
+     border-top-left-radius: $radius;
+     background-clip: padding-box;
+}
+</pre>
+
+<p>Usage: <code>@include border-radius(15px);</code></p>
+
+<p>Thanks <a href="https://web-design-weekly.com/2013/05/12/handy-sass-mixins/">Jake</a> for this mixin!</p>
+
+<ul>
+  <li>Retina Images</li>
+</ul>
+
+<pre>
+@mixin image-2x($image, $width, $height) {
+  @media (min--moz-device-pixel-ratio: 1.3),
+         (-o-min-device-pixel-ratio: 2.6/2),
+         (-webkit-min-device-pixel-ratio: 1.3),
+         (min-device-pixel-ratio: 1.3),
+         (min-resolution: 1.3dppx) {
+    /* on retina, use image that's scaled by 2 */
+    background-image: url($image);
+    background-size: $width $height;
+  }
+}
+</pre>
+
+<p>Usage: <code>@include image-2x("logo2x.png", 100px, 25px);</code></p>
+
+<p>Thanks <a href="https://signalvnoise.com/posts/3271-easy-retina-ready-images-using-scss">Jason</a> for this mixin!</p>
+
+
+            <div class="post-nav">
+
+
+                  <a class="button" href="https://twitter.com/home?status=Useful%20Sass%20mixins+http://vilcins.lv/blog/2015/Useful-Sass-mixins/%20by%20@RonaldsVilcins" target="_blank"><i class="fa fa-twitter"></i></a>
+                  <a class="button" href="https://www.facebook.com/share.php?u=http://vilcins.lv/blog/2015/Useful-Sass-mixins/&title=Useful%20Sass%20mixins" target="_blank"><i class="fa fa-facebook"></i>
+</a>
+                  <a class="button" href="https://plus.google.com/share?url=http://vilcins.lv/blog/2015/Useful-Sass-mixins/" target="_blank"><i class="fa fa-google-plus"></i>
+</a>
+
+
+            </div>
+
+        </section>
+
+    </div>
+
+</article>
+
+    </div>
+
+<footer class="main-footer">
+
+    <div class="vertical-container">
+
+        <div class="wrapper">
+        </div>
+
+    </div>
+
+</footer>
+
+
+</body>
+</html>

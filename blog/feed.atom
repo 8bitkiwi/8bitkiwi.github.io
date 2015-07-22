@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Vilcins.lv</title>
+	<subtitle>By Ronalds Vilcins</subtitle>
+	<link rel="alternate" type="text/html" href="http://vilcins.lv/"/>
+	<link rel="self" type="application/atom+xml" href="http://vilcins.lv/blog/feed.atom"/>
+	<link href="http://vilcins.lv/blog/feed.atom" rel="self" />
+	<link href="http://vilcins.lv/blog/" />
+	<id>http://vilcins.lv/blog/feed.atom</id>
+	<updated>2015-07-19T10:00:26+00:00</updated>
+	<rights>Copyright © 2015, Ronalds Vilcins</rights>
+
+	<entry>
+		<title type="text">Places where you can learn how to code</title>
+		<link href="http://vilcins.lv/blog/2015/Places-where-learn-how-to-code/" />
+		<id>http://vilcins.lv/blog/2015/Places-where-learn-how-to-code/</id>
+		<published>2015-07-06T00:00:00+00:00</published>
+		<updated>2015-07-06T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">Coding isn’t particularly easy to learn, getting a little code under your belt is an valuable skill, that’s exactly why it’s so valuable for business team.
+
+</summary>
+		<content type="html">&lt;p&gt;Coding isn’t particularly easy to learn, getting a little code under your belt is an valuable skill, that’s exactly why it’s so valuable for business team.&lt;/p&gt;
+
+&lt;p&gt;If you have plans to become a web developer, spend a few weeks or month learning to code and I can guarantee it will improve your problem solving skills. &lt;/p&gt;
+
+&lt;p&gt;You no longer have to spend countless hours trying to search for in-depth tutorials and resources about coding, thanks to a number of great resources that have recently been put online for free - teaching yourself to code has never been easier.&lt;/p&gt;
+
+&lt;p&gt;There many different options to learn to code online, so below, find places you can learn to code.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt; - Learn to code interactively, for free. Join over 24 million learners from around the globe.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/computing/computer-programming&quot;&gt;Khan Academy&lt;/a&gt; - Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codeschool.com/&quot;&gt;Code School&lt;/a&gt; - Code School teaches web technologies in the comfort of your browser with video lessons, coding challenges, and screencasts.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/courses?categories=cs-programming,cs-systems,infotech&quot;&gt;Coursera&lt;/a&gt; - Coursera is an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take, for free.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.org&quot;&gt;Code.org&lt;/a&gt; - Code.org is a non-profit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udacity.com/&quot;&gt;Udacity&lt;/a&gt; - With industry giants—Google, AT&amp;amp;T, Facebook, Salesforce, Cloudera, etc.— Udacity offers Nanodegree programs and credentials, designed so professionals become Web Developers, Data Analysts, Mobile Developers, etc.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.udemy.com/&quot;&gt;Udemy&lt;/a&gt; - World’s online learning marketplace, where 7 million+ students are taking courses in everything from programming to yoga to photography–and much, much more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://courses.platzi.com/&quot;&gt;Platzi&lt;/a&gt; - Professional courses on web and app development, online marketing, interface design and server admin. With live streaming classes and expert teachers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learnable.com/&quot;&gt;Learnable&lt;/a&gt; - More than 50,000 satisfied users have used Learnable to become better developers and designers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.thinkful.com/&quot;&gt;Thinkful&lt;/a&gt; - Advance your career with 1-on-1 mentorship from industry experts.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.baserails.com/&quot;&gt;BaseRails&lt;/a&gt; - BaseRails teaches Ruby on Rails, web scraping, and other technologies through building real projects like Etsy, Yelp, and data scrapers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.edx.org/&quot;&gt;edX&lt;/a&gt; - EdX was created for students and institutions that seek to transform themselves through cutting-edge technologies, innovative pedagogy, and rigorous courses.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://teamtreehouse.com/&quot;&gt;Treehouse&lt;/a&gt; - Learn by actually building something yourself! By watching our course videos and coding along in Workspaces, our browser-based code editor, you can see the results of your work in real-time.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://onemonth.com/&quot;&gt;One Month&lt;/a&gt; - Join over 25,000 students who are building better lives for themselves.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dash.generalassemb.ly/&quot;&gt;Dash&lt;/a&gt; - Dash teaches HTML, CSS, and Javascript through fun projects you can do in your browser.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codeavengers.com/&quot;&gt;Code Avengers&lt;/a&gt; - Choose from 100 hours of courses with over 1000 coding tasks.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.open2study.com/&quot;&gt;Open2Study&lt;/a&gt; - Open2Study is backed by Open Universities Australia (OUA), an Australian leader in accredited online education.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mysliderule.com&quot;&gt;SlideRule&lt;/a&gt; - Learn in-demand skills. Get mentored by an industry expert.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lynda.com/&quot;&gt;Lynda&lt;/a&gt; - Learn technology, creative and business skills you can use today.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Resources for creating a typeface</title>
+		<link href="http://vilcins.lv/blog/2015/Resources-for-creating-a-typeface/" />
+		<id>http://vilcins.lv/blog/2015/Resources-for-creating-a-typeface/</id>
+		<published>2015-06-20T00:00:00+00:00</published>
+		<updated>2015-06-20T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">First of all don’t expect to create high quality professional fonts right from the start - it will take time and practice. But, if you’re simply looking to create a custom font or would like to try your hand these resources will certainly help you get the job done, so here are some tools, books and articles related to typography I thought might be useful for beginners. Also don’t forget to send me some of your suggestions!
+
+</summary>
+		<content type="html">&lt;p&gt;First of all don’t expect to create high quality professional fonts right from the start - it will take time and practice. But, if you’re simply looking to create a custom font or would like to try your hand these resources will certainly help you get the job done, so here are some tools, books and articles related to typography I thought might be useful for beginners. Also don’t forget to send me some of your suggestions!&lt;/p&gt;
+
+&lt;p&gt;Tools for creating fonts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cylog.org/graphics/rasterfonteditor.jsp&quot;&gt;Raster Font Editor&lt;/a&gt; - Easy-to-use font editor for the creation of bitmap fonts. It supports several file formats and has a very simple yet fully customisable user interface.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fontforge.github.io/en-US/&quot;&gt;FontForge&lt;/a&gt; - FontForge is a free (libre) font editor for Windows, Mac OS X and GNU+Linux. Use it to create, edit and convert fonts in OpenType, TrueType, UFO, CID-keyed, Multiple Master, and many other formats.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fontconstructor.com/&quot;&gt;Font Constructor&lt;/a&gt; - Font Constructor is a standalone mac only application to build fonts in an intuitive way.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://2ttf.com/&quot;&gt;iFontMaker&lt;/a&gt; - iFontMaker is the first font editor exclusive for iPad. With iPad touch interface, your 100% original hand typeface can be done in 5 minutes. You can email the typography or convert it into a TTF file² available in all applications such as Adobe® CreativeSuite, Microsoft Office for Mac and Windows, and also in your web site as a web font!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://glyphsapp.com/&quot;&gt;Glyphs&lt;/a&gt; - Create Stunning Fonts from dingbat webfonts to full-fledged text typefaces.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://old.fontlab.com/font-editor/fontlab-studio/&quot;&gt;FontLab Studio&lt;/a&gt; - FontLab Studio 5 is our next-generation professional font editor for Mac and Windows. Used by Adobe, Apple, Bitstream, IBM, Linotype, Microsoft, Monotype, Morisawa and almost every other major font foundry in the world, it is the comprehensive solution for font foundries, professional type designers, typographers and graphic design studios, allowing them to design typefaces and create or modify fonts. FontLab Studio 5 supports all major outline font formats, including Type 1, TrueType, Multiple Master and OpenType.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.prototypo.io/&quot;&gt;Prototypo&lt;/a&gt; - Prototypo includes over twenty parameters to modify all built-in glyphs at once. Hobbyist and professional type designers can play, experiment and refine a wide range of body text fonts.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cr8software.net/typelight.html&quot;&gt;Type light&lt;/a&gt; - A fully functional, freeware OpenType font editor. With Type light you can design, edit and convert OpenType TrueType and PostScript fonts. As a light version of Type 3.2 font editor it is your ideal package for entering into the world of font creation.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fontstruct.com/&quot;&gt;FontStruct&lt;/a&gt; - FontStruct is a free font-building tool sponsored by the world’s leading retailer of digital type, FontShop. FontStruct lets you quickly and easily create fonts constructed out of geometrical shapes, which are arranged in a grid pattern, like tiles or bricks.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.glyphrstudio.com/&quot;&gt;Glyphr Studio&lt;/a&gt; - Glyphr Studio is streamlined and made for font design hobbyists. And it’s free!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Book library:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Letters-Credit-View-Type-Design/dp/0879236361&quot;&gt;Letters of Credit: A View of Type Design&lt;/a&gt; - The revolution in typesetting - a revolution that over the past two decades has eliminated a five-hundred-year-old system of hot metal production and replaced it with one of photo-generated and computer-driven composition - shows no sign of winding down.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Anatomy-Typeface-Alexander-S-Lawson/dp/0879233338&quot;&gt;Anatomy of a Typeface&lt;/a&gt; - To the layman, all printing types look the same. But for typographers, graphic artists and others of that lunatic fringe who believe that the letters we look at daily (and take entirely for granted) are of profound importance, the question of how letters are formed, what shape they assume, and how they have evolved remains one of passionate and continuing concern.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Basic-Typography-A-Design-Manual/dp/B008SM1WF4&quot;&gt;Basic Typography: A Design Manual&lt;/a&gt; - For designers, non-designers, and desktop publishers. Fine typography is timeless; typesetting technology may change, but there is only so much a good computer program can do. Using type creatively has more to do with aesthetics and common sense than it does with how the type is set, who sets it, or how much it costs. For guidance we can no longer look to the professional typographer for help; we are now the typographers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.co.uk/Elements-Typographic-Style-Version-4-0/dp/0881792128/&quot;&gt;The Elements of Typographic Style: Version 4.0&lt;/a&gt; - Renowned typographer and poet Robert Bringhurst brings clarity to the art of typography with this masterful style guide. Combining the practical, theoretical, and historical, this edition is completely updated, with a thorough revision and updating of the longest chapter, “Prowling the Specimen Books,” and many other small but important updates based on things that are continually changing in the field.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.thinkingwithtype.com/&quot;&gt;Thinking with Type&lt;/a&gt; - Thinking with Type is the definitive guide to using typography in visual communication, from the printed page to the computer screen.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/exec/obidos/ASIN/0823013472/qid=1033171208/sr=2-1/ref=sr_2_1/002-4893087-4052032&quot;&gt;Designing with Type: A Basic Course in Typography&lt;/a&gt; - The classic Designing with Type has been completely redesigned, with an updated format and full color throughout. New information and new images make this perennial best-seller an even more valuable tool for anyone interested in learning about typography.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.co.uk/Letter-Fountain-Joep-Pohlen/dp/3836554534/&quot;&gt;Letter Fountain&lt;/a&gt; - The anatomy of letters. Everything you could ever want to know about printing letters and numbers. Looking back as far as man’s first efforts to communicate with visual signs and drawings, Letter Fountain is a completely unique typeface handbook: in addition to examining the form and anatomy of every letter in the alphabet (as well as punctuation marks and special characters), the book cross-references type designs with important works of art and art movements from Gutenberg’s times until today.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.co.uk/Designing-Type-Karen-Cheng/dp/0300111509&quot;&gt;Designing Type&lt;/a&gt; - The lack of a specific and comprehensive guide to type design has long been a frustration for typographers, graphic designers and students. ‘Designing type’ finally addresses this important need - and brings new depth and insight to the art and process of developing a typeface.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.co.uk/The-Geometry-Type-Essential-Typefaces/dp/0500241422/&quot;&gt;The Geometry of Type: The Anatomy of 100 Essential Typefaces&lt;/a&gt; - The Geometry of Type explores 100 traditional and modern typefaces in loving detail, with a full spread devoted to each entry. Characters from each typeface are enlarged and annotated to reveal key features, anatomical details, and the finer, often-overlooked elements of type design, which shows how these attributes affect mood and readability.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.amazon.com/Lettering-Type-Creating-Designing-Typefaces/dp/156898765X&quot;&gt;Lettering &amp;amp; Type: Creating Letters and Designing Typefaces&lt;/a&gt; - No component of graphic design has attracted as much interest or inspired as much innovation in recent years as lettering and type. These fundamentals of design, once the exclusive domain of professional typographers, have become an essential starting point for anyone looking for a fresh way to communicate.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some useful articles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/the-basics-of-drawing-type-creating-your-own-handwritten-font--cms-23089&quot;&gt;The Basics of Drawing Type &amp;amp; Creating Your Own Handwritten Font&lt;/a&gt; by Grace Fussell&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://design.tutsplus.com/tutorials/designing-a-typeface-with-illustrator-and-fontlab-from-start-to-finish-part-1--vector-3458&quot;&gt;Designing a Typeface, With Illustrator and FontLab&lt;/a&gt; by Jesse Hora Dot Com&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://designshack.net/articles/typography/8-rules-for-creating-effective-typography/&quot;&gt;8 Rules for Creating Effective Typography&lt;/a&gt; by Joshua Johnson&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hellobrio.com/blog/font-tutorial&quot;&gt;How to Make Your Own Font Using Glyphs and Illustrator&lt;/a&gt; by Hello Brio (Jenn)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smashingmagazine.com/2014/06/02/hands-on-sigmund-freud-typeface-making-fonts/&quot;&gt;Hands On The Sigmund Freud Typeface: Making A Font For Your Shrink&lt;/a&gt; by Harald Geisler&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/&quot;&gt;Bezier Curves and Type Design: A Tutorial&lt;/a&gt; by Fábio Duarte Martins&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.thomasphinney.com/2014/01/kerning-and-spacing-fonts/&quot;&gt;On Kerning (and Spacing) Fonts&lt;/a&gt; by Thomas Phinney&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Powerful CSS tools</title>
+		<link href="http://vilcins.lv/blog/2015/Powerful-CSS-tools/" />
+		<id>http://vilcins.lv/blog/2015/Powerful-CSS-tools/</id>
+		<published>2015-06-13T00:00:00+00:00</published>
+		<updated>2015-06-13T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">CSS tools are important for front-end developers because they help them by simplifying the jobs they have to do. Some tools are new and some are old, but hopefully everybody will find a couple of new useful or at least inspiring tools. I have been bookmarking interesting and useful CSS tools and related resources which will help you to simplify your development related tasks and allow you to write clean css codes.
+
+</summary>
+		<content type="html">&lt;p&gt;CSS tools are important for front-end developers because they help them by simplifying the jobs they have to do. Some tools are new and some are old, but hopefully everybody will find a couple of new useful or at least inspiring tools. I have been bookmarking interesting and useful CSS tools and related resources which will help you to simplify your development related tasks and allow you to write clean css codes.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/twitter/recess&quot;&gt;RECESS&lt;/a&gt; - Developed at Twitter to support internal styleguide, RECESS is a simple, attractive code quality tool for CSS built on top of LESS.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/giakki/uncss&quot;&gt;UnCSS&lt;/a&gt; - UnCSS is a tool that removes unused CSS from your stylesheets. It works across multiple files and supports Javascript-injected CSS.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://suitcss.github.io/&quot;&gt;SUIT CSS&lt;/a&gt; - SUIT CSS is a reliable and testable styling methodology for component-based UI development. A collection of CSS packages and build tools are available as modules. SUIT CSS plays well with React, Ember, Angular, and other component-based approaches to UI development.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/purifycss/purifycss&quot;&gt;Purify CSS&lt;/a&gt; - Remove unused CSS. Works on single-page apps.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ireade/formhack&quot;&gt;FormHack&lt;/a&gt; - FormHack works by providing a few variables that allow you to change some common attributes such as border-radius, input height/width, and colours. By changing these attributes, you will get a beautiful form that is consistent across all major browsers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/primer/primer&quot;&gt;Primer&lt;/a&gt; - Primer is the CSS toolkit that powers GitHub’s front-end design. It’s purposefully limited to common components to provide our developers with the most flexibility.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cssnext/cssnext&quot;&gt;CSSnext&lt;/a&gt; - CSSnext is a CSS transpiler that allows you to use the latest CSS syntax today. It transforms CSS specs into more compatible CSS so you don’t need to wait for browser support.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/reworkcss/rework&quot;&gt;Rework&lt;/a&gt; - CSS manipulations built on css, allowing you to automate vendor prefixing, create your own properties, inline images, anything you can imagine!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jh3y/progre-c-ss/&quot;&gt;Progre(c)ss&lt;/a&gt; - Pure css progress bars with minimal effort.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/postcss/postcss&quot;&gt;PostCSS&lt;/a&gt; - PostCSS is a tool for transforming CSS with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/flexiblegs/flexiblegs-css&quot;&gt;Flexible Grid System 4 CSS&lt;/a&gt; - Flexible Grid System is a responsive CSS framework.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mechio/takana&quot;&gt;Takana&lt;/a&gt; - Takana is a Sass/CSS live-editor. It lets you see your SCSS and CSS style changes live, in the browser, as you type them.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/daneden/animate.css&quot;&gt;Animate.css&lt;/a&gt; - Animate.css is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stoyan/cssshrink&quot;&gt;CSS shrink&lt;/a&gt; - CSS minifier.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/elrumordelaluz/csshake&quot;&gt;CSshake&lt;/a&gt; - Some CSS classes to move your DOM.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/postcss/autoprefixer&quot;&gt;Autoprefixer&lt;/a&gt; - PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter, and Taobao.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/csswizardry/inuit.css&quot;&gt;Inuit.css&lt;/a&gt; - Powerful, scalable, Sass-based, BEM, OOCSS framework.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zmoazeni.github.io/csscss/&quot;&gt;CSSCSS&lt;/a&gt; - CSSCSS will parse any CSS files you give it and let you know which rulesets have duplicated declarations.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/CSSLint/csslint&quot;&gt;CSS Lint&lt;/a&gt; - Automated linting of Cascading Stylesheets.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/geuis/helium-css&quot;&gt;Helium&lt;/a&gt; - Helium is a tool for discovering unused CSS across many pages on a web site. The tool is javascript-based and runs from the browser. Helium accepts a list of URLs for different sections of a site then loads and parses each page to build up a list of all stylesheets. It then visits each page in the URL list and checks if the selectors found in the stylesheets are used on the pages. Finally, it generates a report that details each stylesheet and the selectors that were not found to be used on any of the given pages.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/LeaVerou/prefixfree&quot;&gt;Prefix Free&lt;/a&gt; - A script that lets you use only unprefixed CSS properties everywhere. It works behind the scenes, adding the current browser’s prefix to any CSS code, only when it’s needed.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/IanLunn/Hover&quot;&gt;Hover.css&lt;/a&gt; - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/azendal/elastic&quot;&gt;Elastic CSS Framework&lt;/a&gt; - A simple css framework to layout web-based interfaces, based on the printed layout techniques of 4 columns but with capabilities to unlimited column combinations. and capacity to make elastic, fixed and liquid layout easily.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/antpaw/xCSS&quot;&gt;OO CSS Framework&lt;/a&gt; - xCSS bases on CSS and empowers a straightforward and object-oriented workflow when developing complex style cascades. Using xCSS means a dramatic cut down to your development time by: having a intuitive overview of the overall CSS structure, using variables, re-using existing style cascades and many other handy features.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/matthewhartman/base&quot;&gt;Base 2&lt;/a&gt; - Base is a super simple, responsive framework, built to work on all devices big, small and in-between.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://compass-style.org/&quot;&gt;Compass&lt;/a&gt; - Compass is an open-source CSS Authoring Framework.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/necolas/normalize.css&quot;&gt;Normalize.css v3&lt;/a&gt; - Normalize.css is a customisable CSS file that makes browsers render all elements more consistently and in line with modern standards.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://meyerweb.com/eric/tools/css/reset/&quot;&gt;Reset CSS&lt;/a&gt; - The goal of a reset stylesheet is to reduce browser inconsistencies in things like default line heights, margins and font sizes of headings, and so on.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Eiskis/layers-css&quot;&gt;Layers CSS&lt;/a&gt; - A lightweight, unobtrusive and style-agnostic, CSS framework aimed for practical use cases.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jonathantneal/sanitize.css&quot;&gt;Sanitize.css&lt;/a&gt; - Render elements consistently. Style with best practices.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/miniMAC/magic&quot;&gt;Magic&lt;/a&gt; - CSS3 Animations with special effects.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/devinhunt/typebase.css&quot;&gt;Typebase.css&lt;/a&gt; - Typebase.css is a minimal, customizable typography stylesheet. It has both less and sass versions so it can easily be modified and merged into modern web projects. It provides all the necessary scaffolding for good typography without adding any aesthetics. It is built to be modified as projects evolve and grow, and plays nice with normalize.css.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mrmrs/fluidity&quot;&gt;Fluidity&lt;/a&gt; - The worlds smallest fully-responsive css framework.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/krkn/kouto-swiss&quot;&gt;Kouto Swiss&lt;/a&gt; - A complete CSS framework for Stylus.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/chrisnager/ungrid/&quot;&gt;Ungrid&lt;/a&gt; - Ungrid is a tiny, responsive, table-based CSS grid system. The entire ungrid.css file is 97 bytes minified.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/basscss/basscss&quot;&gt;Basscss&lt;/a&gt; - Basscss is a lightweight collection of base element styles, immutable utilities, layout modules, and color styles designed for speed, clarity, performance, and scalability.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hiloki/kitecss&quot;&gt;Kite&lt;/a&gt; - Kite is a flexible layout helper CSS library.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Inspiring documentaries every graphic designer should see</title>
+		<link href="http://vilcins.lv/blog/2015/Inspiring-documentaries-every-graphic-designer-should-see/" />
+		<id>http://vilcins.lv/blog/2015/Inspiring-documentaries-every-graphic-designer-should-see/</id>
+		<published>2015-06-05T00:00:00+00:00</published>
+		<updated>2015-06-05T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">This collection of documentaries has been curated to be great inspiration for any graphic or web designer. These choice films are a must see for any new designers.
+
+</summary>
+		<content type="html">&lt;p&gt;This collection of documentaries has been curated to be great inspiration for any graphic or web designer. These choice films are a must see for any new designers.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Universal Arts of Graphic Design (PBS)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/sTi5SNgxE3U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Graphic designers find beauty within limitations, working towards the ultimate goal of visually communicating a message, be it the packaging of a product, the spirit of a book, or the narrative of a building. Utilizing a language of type and imagery, graphic designers try to make every aspect of our lives defined and beautiful.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design &amp;amp; Thinking (Mu-Ming Tsai)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/uilcaXYnluU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Inspired by design thinking, this documentary grabs businessman, designers, social change-makers and individuals to portrait what they have in common when facing this ambiguous 21st century. What is design thinking? How is it applied in business models? How are people changing the worldwith their own creative minds? It is a call to the conventional minds to change and collaborate.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exit through the gift shop (Banksy)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/oHJBdDSTbLw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Exit Through the Gift Shop tells the incredible true story of how an eccentric French shop keeper turned documentary maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner with spectacular results. The film contains exclusive footage of Banksy, Shepard Fairey, Invader and many of the worlds most infamous graffiti artists at work, on walls and in interview. As Banksy describes it, Its basically the story of how one man set out to film the un—filmable. And failed.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Helvetica (Gary Hustwit)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/12953907&quot; width=&quot;100%&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A documentary about typography, graphic design, and global visual culture.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Objectified (Gary Hustwit)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/2973112&quot; width=&quot;100%&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Objectified is a feature-length independent documentary about industrial design. It’s a look at the creativity at work behind everything from toothbrushes to tech gadgets. It’s about the people who re-examine, re-evaluate and re-invent our manufactured environment on a daily basis. It’s about personal expression, identity, consumerism, and sustainability. It’s about our relationship to mass-produced objects and, by extension, the people who design them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Art &amp;amp; Copy (Doug Pray)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/hLfvmiB4edI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Powerful film about advertising and inspiration. Directed by Doug Pray (SURFWISE, SCRATCH, HYPE!), it reveals the work and wisdom of some of the most influential advertising creatives of our time – people who’ve profoundly impacted our culture, yet are virtually unknown outside their industry.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Design is one: The Vignellis (Kathy Brew, Roberto Guerra)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/anl5D2Bpsbo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;“If you can’t find it, design it” is the motto of the Vignellis, whose renowned work ranges
+‘‘from the spoon to the city.” Kathy Brew &amp;amp; Roberto Guerra’s film brings us into the Vignellis’ world, capturing their intelligence and creativity, as well as their humanity, warmth, and humor.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Face of the Twentieth Century: Bauhaus (ArtHaus - Art and Design Series) (Frank Whitford)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/JVit9vp6K8k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A look at the most famous school of architecture, its key artistic figures, and its historical and political significance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PressPausePlay (David Dworsky, Victor Köhler)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/41945386?color=ffffff&amp;amp;title=0&amp;amp;byline=0&quot; width=&quot;100%&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The digital revolution of the last decade has unleashed creativity and talent in an unprecedented way, with unlimited opportunities. But does democratized culture mean better art or is true talent instead drowned out? This is the question addressed by PressPausePlay, a documentary film containing interviews with some of the world’s most influential creators of the digital era.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Eames: The Architect and the Painter (Jason Cohn, Bill Jersey)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/_YMzmuBBBzo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The husband-and-wife team of Charles and Ray Eames are widely regarded as America’s most important designers. Perhaps best remembered for their mid-century plywood and fiberglass furniture, the Eames Office also created a mind-bending variety of other products, from splints for wounded military during World War II, to photography, interiors, multi-media exhibits, graphics, games, films and toys.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Typeface (Justine Nagan)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/9Sv4PmUuYpo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Charting the intersection between rural America and contemporary graphic design.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Urbanized (Gary Hustwit)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/6jpN8kI0-pY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A documentary about the design of cities, which looks at the issues and strategies behind urban design and features some of the world’s foremost architects, planners, policymakers, builders, and thinkers.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sign Painters (Faythe Levine, Sam Macon)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/fq2sxKg8mn0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;At a time when most American cityscapes are dominated by computer created signage, Sign Painters takes a close look at the past, present, and hopeful future of the hand paint sign industry in the USA.&lt;/p&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Favorite Codepen demos</title>
+		<link href="http://vilcins.lv/blog/2015/Favorite-codepen-demos/" />
+		<id>http://vilcins.lv/blog/2015/Favorite-codepen-demos/</id>
+		<published>2015-06-02T00:00:00+00:00</published>
+		<updated>2015-06-02T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">If you don’t know what is Codepen - it is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people’s creations.
+Want to show off your latest creation and get feedback from other coders? Do you like to explore the code of other front-end developers? CodePen is great for that.
+
+</summary>
+		<content type="html">&lt;p&gt;If you don’t know what is &lt;a href=&quot;http://codepen.io/&quot;&gt;Codepen&lt;/a&gt; - it is an HTML, CSS, and JavaScript code editor in your browser with instant previews of the code you see and write. It is a searchable trove of your own creations, and a world of other people’s creations.
+Want to show off your latest creation and get feedback from other coders? Do you like to explore the code of other front-end developers? CodePen is great for that.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Alex Vazquez (&lt;a href=&quot;http://twitter.com/alexquez&quot;&gt;@alexquez&lt;/a&gt;), Tim Sabat (&lt;a href=&quot;http://twitter.com/timsabat&quot;&gt;@timsabat&lt;/a&gt;) and Chris Coyier (&lt;a href=&quot;http://twitter.com/chriscoyier&quot;&gt;@chriscoyier&lt;/a&gt;) for creating this, finally you can have your own online playground.&lt;/p&gt;
+
+&lt;p&gt;These are mine favorite Codepen demos, what are yours?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Breaking Bad&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/TimPietrusky/embed/Bsegb/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/TimPietrusky/pen/Bsegb/&quot;&gt;Breaking Bad&lt;/a&gt; by Tim Pietrusky (&lt;a href=&quot;http://codepen.io/TimPietrusky&quot;&gt;@TimPietrusky&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Firewatch Parallax in CSS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/samdbeckham/embed/OPXPNp/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/samdbeckham/pen/OPXPNp/&quot;&gt;Firewatch Parallax in CSS&lt;/a&gt; by Sam Beckham (&lt;a href=&quot;http://codepen.io/samdbeckham&quot;&gt;@samdbeckham&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3D CSS Typography&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/noahblon/embed/CsxfH/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/noahblon/pen/CsxfH/&quot;&gt;3D CSS Typography&lt;/a&gt; by Noah Blon (&lt;a href=&quot;http://codepen.io/noahblon&quot;&gt;@noahblon&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pure CSS One Div Weather Animated Icons&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/fbrz/embed/iqtlk/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/fbrz/pen/iqtlk/&quot;&gt;Pure CSS One Div Weather Animated Icons&lt;/a&gt; by Fabrizio Bianchi (&lt;a href=&quot;http://codepen.io/fbrz&quot;&gt;@fbrz&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;sketch.js Demo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/soulwire/embed/foktm/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/soulwire/pen/foktm/&quot;&gt;sketch.js Demo&lt;/a&gt; by Justin Windle (&lt;a href=&quot;http://codepen.io/soulwire&quot;&gt;@soulwire&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CSS 3D Bending Effect - Page Flip&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/fbrz/embed/whxbF/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/fbrz/pen/whxbF/&quot;&gt;CSS 3D Bending Effect - Page Flip&lt;/a&gt; by Fabrizio Bianchi (&lt;a href=&quot;http://codepen.io/fbrz&quot;&gt;@fbrz&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Canvas Fireworks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/jackrugile/embed/acAgx/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/jackrugile/pen/acAgx/&quot;&gt;Canvas Fireworks&lt;/a&gt; by Jack Rugile (&lt;a href=&quot;http://codepen.io/jackrugile&quot;&gt;@jackrugile&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linjer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/hakimel/embed/zwxba/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/hakimel/pen/zwxba/&quot;&gt;Linjer&lt;/a&gt; by Hakim El Hattab (&lt;a href=&quot;http://codepen.io/hakimel&quot;&gt;@hakimel&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twisty&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/micjamking/embed/obdGw/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/micjamking/pen/obdGw/&quot;&gt;Twisty&lt;/a&gt; by Mike King (&lt;a href=&quot;http://codepen.io/micjamking&quot;&gt;@micjamking&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Compose 404&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe height=&quot;400&quot; scrolling=&quot;no&quot; src=&quot;//codepen.io/imathis/embed/ZYMmLx/?height=400&amp;amp;theme-id=0&amp;amp;default-tab=result&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot; style=&quot;width: 100%;&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/imathis/pen/ZYMmLx/&quot;&gt;Compose 404&lt;/a&gt; by Brandon Mathis (&lt;a href=&quot;http://codepen.io/imathis&quot;&gt;@imathis&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Front-end development reading list</title>
+		<link href="http://vilcins.lv/blog/2015/Front-end-development-reading-list/" />
+		<id>http://vilcins.lv/blog/2015/Front-end-development-reading-list/</id>
+		<published>2015-05-27T00:00:00+00:00</published>
+		<updated>2015-05-27T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">There are a lot of experts who have encountered problems and found solutions which they share with us in the books, so why not take advantage of their best practices?
+
+</summary>
+		<content type="html">&lt;p&gt;There are a lot of experts who have encountered problems and found solutions which they share with us in the books, so why not take advantage of their best practices?&lt;/p&gt;
+
+&lt;p&gt;Below is a list of some of books that I have found interesting and useful as a front-end developer, I hope these books will help you become a better front-end developer.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/8148515-html5-for-web-designers&quot;&gt;HTML5 for Web Designers&lt;/a&gt; (Jeremy Keith, Jeffrey Zeldman) - In this brilliant and entertaining user’s guide, Jeremy Keith cuts to the chase, with crisp, clear, practical examples, and his patented twinkle and charm.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/259072.Designing_With_Web_Standards&quot;&gt;Designing With Web Standards&lt;/a&gt; (Jeffrey Zeldman) - Jeffrey Zeldman teaches you to: Slash design, development, and quality assurance costs (or do great work in spite of constrained budgets). Deliver superb design and sophisticated functionality without worrying about browser incompatibilities.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/17249364-sass-for-web-designers&quot;&gt;Sass for Web Designers&lt;/a&gt; (Dan Cederholm) - Dan Cederholm tells how he came around to the popular CSS pre-processor, and shares just what you need to take better control of your stylesheets (all the while working the way you always have). From getting started to advanced techniques, Dan will help you level up your stylesheets and get back to work in no time.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/12910749-mobile-first&quot;&gt;Mobile First&lt;/a&gt; (Luke Wroblewski) - Former Yahoo! design architect and co-creator of Bagcheck Luke Wroblewski knows more about mobile experience than the rest of us, and packs all he knows into this entertaining, to-the-point guidebook.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/9748697-css3-for-web-designers&quot;&gt;CSS3 For Web Designers&lt;/a&gt; (Dan Cederholm) - From advanced selectors to generated content to the triumphant return of web fonts, and from gradients, shadows, and rounded corners to full-blown animations, CSS3 is a universe of creative possibilities.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/13574985-design-is-a-job&quot;&gt;Design Is a Job&lt;/a&gt; (Mike Monteiro, Erik Spiekermann) - Co-founder of Mule Design and raconteur Mike Monteiro wants to help you do your job better.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/3296910-web-form-design&quot;&gt;Web Form Design&lt;/a&gt; (Luke Wroblewski) - Luke Wroblewski draws on original research, his considerable experience at Yahoo! and eBay, and the perspectives of many of the field’s leading designers to show you everything you need to know about designing effective and engaging Web forms.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/20666969-web-design-with-html-css-javascript-and-jquery-set&quot;&gt;Web Design with HTML, CSS, JavaScript and Jquery Set&lt;/a&gt; (Jon Duckett) - A two-book set for web designers and front-end developersThis two-book set combines the titles “HTML &amp;amp; CSS: Designing and Building Web Sites” and “JavaScript &amp;amp; jQuery: Interactive Front-End Development.” Together these two books form an ideal platform for anyone who wants to master HTML and CSS before stepping up to JavaScript and jQuery.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/9815847-the-elements-of-content-strategy&quot;&gt;The Elements of Content Strategy&lt;/a&gt; (Erin Kissane) - This brief guide explores content strategy’s roots, and quickly and expertly demonstrates not only how it’s done, but how you can do it well. A compelling read for both experienced content strategists and those making the transition from other fields.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/6294172-a-practical-guide-to-designing-for-the-web&quot;&gt;A Practical Guide to Designing for the Web&lt;/a&gt; (Mark Boulton) - A Practical Guide to Designing for the Web aims to teach you techniques for designing your website using the principles of graphic design. Featuring five sections, each covering a core aspect of graphic design: Getting Started, Research, Typography, Colour, and Layout.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/9815906-responsive-web-design&quot;&gt;Responsive Web Design&lt;/a&gt; (Ethan Marcotte) - Ethan Marcotte will explore CSS techniques and design principles, including fluid grids, flexible images, and media queries, demonstrating how you can deliver a quality experience to your users no matter how large (or small) their display.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/16219704-javascript-and-jquery&quot;&gt;JavaScript and Jquery: Interactive Front-End Web Development&lt;/a&gt; (Jon Duckett) - You’ll learn how to achieve techniques seen on many popular websites (such as adding animation, tabbed panels, content sliders, form validation, interactive galleries, and sorting data).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have also created list with all these books in &lt;a href=&quot;https://www.goodreads.com/review/list/39723685-ronalds-vilci&quot;&gt;goodreads&lt;/a&gt;!&lt;/p&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Useful Sass mixins</title>
+		<link href="http://vilcins.lv/blog/2015/Useful-Sass-mixins/" />
+		<id>http://vilcins.lv/blog/2015/Useful-Sass-mixins/</id>
+		<published>2015-05-23T00:00:00+00:00</published>
+		<updated>2015-05-23T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">
+  Vendor Prefixing
+
+
+</summary>
+		<content type="html">&lt;ul&gt;
+  &lt;li&gt;Vendor Prefixing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin prefix($property, $value, $vendors: webkit moz ms o) {
+      @if $vendors {
+        @each $vendor in $vendors {
+          #{&quot;-&quot; + $vendor + &quot;-&quot; + $property}: #{$value};
+        }
+      }
+      #{$property}: #{$value};
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include prefix(transform, rotate(42deg), webkit ms);&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks &lt;a href=&quot;http://www.sitepoint.com/sass-mixins-kickstart-project/&quot;&gt;Hugo&lt;/a&gt; for this mixin!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rem font size with pixel fallback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@function calculateRem($size) {
+  $remSize: $size / 14px;
+  @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include font-size(18px);&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Black and white opacity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@function black($opacity){
+    @return rgba(0,0,0,$opacity)
+}
+@function white($opacity){
+    @return rgba(255,255,255,$opacity)
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;background:black(0.25);&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks &lt;a href=&quot;http://sachagreif.com/useful-sass-mixins/&quot;&gt;Sacha&lt;/a&gt; for this mixin!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Image replacement and hiding text&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin hide-text{
+    overflow:hidden;
+    text-indent:-9000px;
+    display:block;
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include hide-text;&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Animations and and keyframes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin keyframes($animation-name) {
+  @-webkit-keyframes $animation-name {
+    @content;
+  }
+  @-moz-keyframes $animation-name {
+    @content;
+  }  
+  @-ms-keyframes $animation-name {
+    @content;
+  }
+  @-o-keyframes $animation-name {
+    @content;
+  }  
+  @keyframes $animation-name {
+    @content;
+  }
+}
+
+@mixin animation($str) {
+  -webkit-animation: #{$str};
+  -moz-animation: #{$str};
+  -ms-animation: #{$str};
+  -o-animation: #{$str};
+  animation: #{$str};
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include animation(&#39;slide-left 5s 3&#39;);&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Transitions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin transition($transition-property, $transition-time, $method) {
+    -webkit-transition: $transition-property $transition-time $method;
+    -moz-transition: $transition-property $transition-time $method;
+    -ms-transition: $transition-property $transition-time $method;
+    -o-transition: $transition-property $transition-time $method;
+    transition: $transition-property $transition-time $method;
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include transition(all, 0.2s, ease-in-out);&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Opacity in all major browsers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin opacity($opacity) {
+  opacity: $opacity;
+  $opacity-ie: $opacity * 100;
+  filter: alpha(opacity=$opacity-ie); //IE8
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include opacity(0.8);&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks &lt;a href=&quot;https://web-design-weekly.com/2013/05/12/handy-sass-mixins/&quot;&gt;Jake&lt;/a&gt; for this mixin!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Breakpoints&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin breakpoint($point) {
+      @if $point == large {
+      @media (min-width: 64.375em) { @content; }
+}
+      @else if $point == medium {
+      @media (min-width: 50em) { @content; }
+}
+      @else if $point == small {
+      @media (min-width: 37.5em) { @content; }
+ }
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include breakpoint(large) { width: 60%; }&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks &lt;a href=&quot;https://web-design-weekly.com/2013/05/12/handy-sass-mixins/&quot;&gt;Jake&lt;/a&gt; for this mixin!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clearfix&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin clearfix() {
+    &amp;amp;:before,
+    &amp;amp;:after {
+        content: &quot;&quot;;
+        display: table;
+    }
+    &amp;amp;:after {
+        clear: both;
+    }
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include clearfix();&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks &lt;a href=&quot;http://nicolasgallagher.com/micro-clearfix-hack/&quot;&gt;Nicolas&lt;/a&gt; for this mixin!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Box Sizing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin box-sizing($box-model) {
+  -webkit-box-sizing: $box-model; // Safari &amp;lt;= 5
+     -moz-box-sizing: $box-model; // Firefox &amp;lt;= 19
+          box-sizing: $box-model;
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include box-sizing(border-box);&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks &lt;a href=&quot;https://web-design-weekly.com/2013/05/12/handy-sass-mixins/&quot;&gt;Jake&lt;/a&gt; for this mixin!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Border Radius&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+  background-clip: padding-box;  
+}
+@mixin border-top-radius($radius) {
+  -webkit-border-top-right-radius: $radius;
+  border-top-right-radius: $radius;
+   -webkit-border-top-left-radius: $radius;
+   border-top-left-radius: $radius;
+   background-clip: padding-box;
+}
+@mixin border-right-radius($radius) {
+  -webkit-border-bottom-right-radius: $radius;
+  border-bottom-right-radius: $radius;
+     -webkit-border-top-right-radius: $radius;
+     border-top-right-radius: $radius;
+     background-clip: padding-box;
+}
+@mixin border-bottom-radius($radius) {
+  -webkit-border-bottom-right-radius: $radius;
+  border-bottom-right-radius: $radius;
+   -webkit-border-bottom-left-radius: $radius;
+   border-bottom-left-radius: $radius;
+   background-clip: padding-box;
+}
+@mixin border-left-radius($radius) {
+  -webkit-border-bottom-left-radius: $radius;
+  border-bottom-left-radius: $radius;
+     -webkit-border-top-left-radius: $radius;
+     border-top-left-radius: $radius;
+     background-clip: padding-box;
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include border-radius(15px);&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks &lt;a href=&quot;https://web-design-weekly.com/2013/05/12/handy-sass-mixins/&quot;&gt;Jake&lt;/a&gt; for this mixin!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Retina Images&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@mixin image-2x($image, $width, $height) {
+  @media (min--moz-device-pixel-ratio: 1.3),
+         (-o-min-device-pixel-ratio: 2.6/2),
+         (-webkit-min-device-pixel-ratio: 1.3),
+         (min-device-pixel-ratio: 1.3),
+         (min-resolution: 1.3dppx) {
+    /* on retina, use image that&#39;s scaled by 2 */
+    background-image: url($image);
+    background-size: $width $height;
+  }
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Usage: &lt;code&gt;@include image-2x(&quot;logo2x.png&quot;, 100px, 25px);&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks &lt;a href=&quot;https://signalvnoise.com/posts/3271-easy-retina-ready-images-using-scss&quot;&gt;Jason&lt;/a&gt; for this mixin!&lt;/p&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">CSS hacks you may not know</title>
+		<link href="http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/" />
+		<id>http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/</id>
+		<published>2015-05-22T00:00:00+00:00</published>
+		<updated>2015-05-22T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">This is a collection of short CSS snippets I thought might be useful for beginners. If you’re experienced with CSS you’ll have seen most of these tips and tricks before, but who knows maybe you can find one or two you haven’t seen before. 
+
+</summary>
+		<content type="html">&lt;p&gt;This is a collection of short CSS snippets I thought might be useful for beginners. If you’re experienced with CSS you’ll have seen most of these tips and tricks before, but who knows maybe you can find one or two you haven’t seen before. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Unicode classes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can use unicode characters for class names in your HTML, and even use write CSS selectors with those same characters.&lt;/p&gt;
+
+&lt;pre&gt;
+.♫ {
+   background: #222;
+   color: #FFF;
+}
+.ಠ_ಠ {
+	background: #ccc;
+	color: #fff;
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Remove input outline for WebKit browsers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+input[type=&quot;text&quot;]:focus {
+  outline: none;
+}
+&lt;/pre&gt;
+
+&lt;p&gt;And orange outline won’t show up anymore.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Opacity in all major browsers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As you know older browsers have different ways of controlling the opacity or transparency.&lt;/p&gt;
+
+&lt;pre&gt;
+div {
+opacity:0.4;
+-ms-filter: &quot;progid:DXImageTransform.Microsoft.Alpha(Opacity=40)&quot;; /* IE8 */
+filter: alpha(opacity=40); /* IE 5-7  */
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Property text-decoration is now a shorthand&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+a {
+  text-decoration: overline red wavy;
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Currently works only in Firefox.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Background new values&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Correct syntax for all background properties is:&lt;/p&gt;
+
+&lt;pre&gt;
+div {
+	background:
+		[background-image]
+		[background-position]
+		[/ background-size]
+		[background-repeat]
+		[background-attachment]
+		[background-origin]
+		[background-clip]
+		[background-color];
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Specifying page breaks for printing using CSS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+.page-break { 
+    page-break-before: always;
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Capitalize Text&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+p {
+   text-transform: capitalize; 
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Consistent base font size&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+body { 
+     font-size:62.5%; 
+}
+&lt;/pre&gt;
+
+&lt;p&gt;Setting the &lt;code&gt;font-size&lt;/code&gt; property to 62.5% in &lt;code&gt;body&lt;/code&gt; makes 1em equal to 10px.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reading HTML attribute values from CSS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+a:hover:after {
+      content: attr(title);
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A one-liner to target Webkit browsers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+.selector:not(*:root) { 
+      property:value; 
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A Media Query to target Webkit browsers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+   .selector { 
+       property:value; 
+ } 
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Target old versions of Internet Explorer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Easily target IE8 and older versions. Yes, I know it’s 2015, but I recently used this hack :D&lt;/p&gt;
+
+&lt;pre&gt;
+.element {
+  color: black;
+  color: green\9; /* IE8 and older */
+  *color: blue; /* IE7 and older */
+  _color: red; /* IE6 and older */
+}
+&lt;/pre&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add a left margin of 10px to all paragraphs in all browsers (except Opera 9 and below)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;
+p {
+  margin-left: 10px;
+}
+
+html:first-child p {
+  margin-left: 0;
+}
+&lt;/pre&gt;
+
+&lt;p&gt;P.S. If you know of any other good ones, please contact me via twitter or email, i will add.&lt;/p&gt;
+
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Finding new resources to read</title>
+		<link href="http://vilcins.lv/blog/2015/Finding-new-resources-to-read/" />
+		<id>http://vilcins.lv/blog/2015/Finding-new-resources-to-read/</id>
+		<published>2015-05-16T00:00:00+00:00</published>
+		<updated>2015-05-16T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">An important part of my job as front-end developer is keeping up to date and staying close to new tools, trends, code demos and apps.
+
+</summary>
+		<content type="html">&lt;p&gt;An important part of my job as front-end developer is keeping up to date and staying close to new tools, trends, code demos and apps.&lt;/p&gt;
+
+&lt;p&gt;It’s hard to find high quality content as well as the content most relevant to me.
+And if you’re the kind of person like me who mostly reads about front-end and design its even harder.&lt;/p&gt;
+
+&lt;p&gt;Since there are many developers out there who are reading my blog I wanted share it here with you.&lt;/p&gt;
+
+&lt;p&gt;In a recent article, I introduced you to the &lt;a href=&quot;http://vilcins.lv/blog/2015/Newsletters-for-Web-Designers-and-Front-end-Developers/&quot;&gt;“Newsletters for web designers and front-end developers”&lt;/a&gt;, which I firmly believe is a great way to get latest about web development right in your inbox. However, I prefer to read also on web when there are all read through.&lt;/p&gt;
+
+&lt;p&gt;Recently stumbled across the web and found &lt;a href=&quot;http://www.webdesignernews.com/&quot;&gt;Webdesigner News&lt;/a&gt;, they provide web designers and developers with a single location to discover the latest and most significant stories on the Web. Search through hundreds of posts on blogs, social media, and news channels, to deliver the most essential stories of the day. Their content covers quality news, fresh tools and apps, case studies, code demos, inspiration posts, videos and more.&lt;/p&gt;
+
+&lt;p&gt;And if you are too busy to check them daily check out their newsletter with the most shared stories of the day.&lt;/p&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Job Boards for Designers and Developers</title>
+		<link href="http://vilcins.lv/blog/2015/Job-Boards-for-Designers-and-Developers/" />
+		<id>http://vilcins.lv/blog/2015/Job-Boards-for-Designers-and-Developers/</id>
+		<published>2015-03-28T00:00:00+00:00</published>
+		<updated>2015-03-28T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">To help you find a job I have listed the leading job boards for Web Designers and Developers.
+
+</summary>
+		<content type="html">&lt;p&gt;To help you find a job I have listed the leading job boards for Web Designers and Developers.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.layervault.com/jobs&quot;&gt;Designer News Jobs&lt;/a&gt; - Designer News reaches hundreds of thousands of leading design and technology professionals each month, not including the candidates viewing listings on syndicated sites.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://careers.stackoverflow.com/&quot;&gt;stackoverflow Careers&lt;/a&gt; - Reach top talent from the top tech community.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://weworkremotely.com/&quot;&gt;We Work Remotely&lt;/a&gt; - The best place to find and list jobs that aren’t restricted by commutes or a particular geographic area. Find the most qualified people in the most unexpected places.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dribbble.com/jobs&quot;&gt;Dribbble Jobs&lt;/a&gt; - Jobs for designers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.authenticjobs.com/&quot;&gt;Authentic Jobs&lt;/a&gt; - The job board for web professionals.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://angel.co/jobs&quot;&gt;Startup Jobs&lt;/a&gt; - Over 5,000 of the world’s best startups are hiring on AngelList.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.elance.com/&quot;&gt;Elance&lt;/a&gt; - Elance is where businesses go to find, hire, collaborate with and pay leading freelancers from more than 180 countries. With a community of over 3 million freelancers and 1 million businesses, on Elance it’s easy to hire a top freelancer. Find a developer, freelance designers or other talented freelancers with the most in-demand skills.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.krop.com/creative-jobs/&quot;&gt;Krop&lt;/a&gt; - The most talented creatives use Krop to find jobs and build their portfolios.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.behance.net/joblist&quot;&gt;Behance Jobs&lt;/a&gt; - Creative Jobs and Freelance Opportunities on Behance.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.coroflot.com/jobs&quot;&gt;Coroflot Jobs&lt;/a&gt; - Target a global audience of top-tier creative professionals. View and search over 2,000 creative company profiles.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://designjobs.aiga.org/jobs&quot;&gt;Aiga Design Jobs&lt;/a&gt; - AIGA Design Jobs is the first place AIGA members turn to find their next opportunity, and the premier place for employers seeking the most qualified designers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sensationaljobs.com/&quot;&gt;Sensational Jobs&lt;/a&gt; - The Sensational Jobs board easily connects web professionals with great opportunities for design creative jobs as well as tech jobs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.odesk.com/&quot;&gt;oDesk&lt;/a&gt; - Skills, integrity, and amazing results make oDesk freelancers universally awesome. More than 1 million companies use oDesk.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.startupers.com/&quot;&gt;Startupers&lt;/a&gt; - Startup Jobs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unicornhunt.io&quot;&gt;Unicorn Hunt&lt;/a&gt; - The new 3beards job board for tech jobs. Job board that really helps companies find good talent and that helps good talent find the right company to work for.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jobs.github.com/&quot;&gt;Github Jobs&lt;/a&gt; - Jobs for Developers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://workatho.me/&quot;&gt;Work at Home&lt;/a&gt; - Workatho.me is a dedicated Free job Board for remote and telecommuting positions in the technology ,IT ,and the Internet World .&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://androidjobs.io/&quot;&gt;Android Jobs&lt;/a&gt; - Android Jobs around the web.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jobs.coreint.org/&quot;&gt;Core Intuition Jobs&lt;/a&gt; - For iOS and Mac Cocoa Developers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dsgnjbs.com/&quot;&gt;DSGN JBS&lt;/a&gt; - All of the best design jobs in one place.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.designjobsboard.com/&quot;&gt;Design Jobs Board&lt;/a&gt; - Design jobs listing site where posting a job is free of charge for design studios. Our board reaches discerning designers at all levels in London, the UK and beyond.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://muz.li/jobs/&quot;&gt;Muzli Jobs&lt;/a&gt; - Looking to hire creative people? Reach thousands of design professionals from the Muzli community.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also don’t forget LinkedIn that can help you connect with people you know at companies. Twitter or Facebook by searching hashtags like #jobs or #hiring.&lt;/p&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Open Source E-mail Templates</title>
+		<link href="http://vilcins.lv/blog/2015/Open-Source-E-mail-Templates/" />
+		<id>http://vilcins.lv/blog/2015/Open-Source-E-mail-Templates/</id>
+		<published>2015-03-10T00:00:00+00:00</published>
+		<updated>2015-03-10T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">I’ve collected few of the best free and open source email templates to help you improve email experience for your projects.
+
+</summary>
+		<content type="html">&lt;p&gt;I’ve collected few of the best free and open source email templates to help you improve email experience for your projects.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mailchimp/Email-Blueprints&quot;&gt;Email Blueprints&lt;/a&gt; - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails. They include template language elements that make them customizable when imported into a MailChimp account, as well as merge tags that will generate dynamic content when sent through MailChimp.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zurb/ink&quot;&gt;Ink&lt;/a&gt; - Ink is a responsive email framework, used to make HTML emails look great on any client or device. It includes a 12-column grid, as well as some simple UI elements for rapid prototyping.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sendwithus.com/resources/templates&quot;&gt;Send With Us&lt;/a&gt; - The sendwithus Open Source Template Project is a collection of free email templates created and managed by the sendwithus team and community. Anyone may contribute new themes and templates, or make impactful updates to the existing ones.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/charlesmudy/Responsive-HTML-Email-Template&quot;&gt;Responsive HTML Email Template&lt;/a&gt; - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query. It serves as a foundation that has been tested and thoroughly reviewed for compatibility, very easy to customize and make changes.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/seanpowell/Email-Boilerplate&quot;&gt;Email Boilerplate&lt;/a&gt; - Use these code examples as a guideline for formatting your HTML email to avoid some of the major styling pitfalls in HTML email design. You may want to create your own template based on these snippets or just pick and choose the ones that fix your specific rendering issue(s).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rodriguezcommaj/salted&quot;&gt;Salted&lt;/a&gt; - Creating HTML email that renders well across most clients is surprisingly hard, especially when you want it to be responsive. Salted is a responsive email template that tries to make things easier.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mailgun/transactional-email-templates&quot;&gt;Transactional E-mail Templates&lt;/a&gt; - Transactional HTML emails often get neglected. Styling HTML email is painful. Tables, inline CSS, unsupported CSS, desktop clients, web clients, mobile clients, various devices, various providers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/TedGoas/Cerberus&quot;&gt;Cerberus&lt;/a&gt; - Coding regular emails is hard enough by itself. Making them responsive shouldn’t add to the headache. A few simple, but solid patterns are all that’s needed to optimize emails for small screens.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/InterNations/antwort&quot;&gt;Antwort&lt;/a&gt; - Antwort offers responsive layouts for Email that both fits and adapts to client widths. Don’t underwhelm desktop users with single column layouts that work for mobile. Antwort offers columns on desktop that automatically become rows on mobile.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Newsletters for Web Designers and Front-end Developers</title>
+		<link href="http://vilcins.lv/blog/2015/Newsletters-for-Web-Designers-and-Front-end-Developers/" />
+		<id>http://vilcins.lv/blog/2015/Newsletters-for-Web-Designers-and-Front-end-Developers/</id>
+		<published>2015-03-09T00:00:00+00:00</published>
+		<updated>2015-03-09T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">There are few newsletters that are a must for front-end developers. So why not sign up to some email newsletters that will keep you current?
+
+</summary>
+		<content type="html">&lt;p&gt;There are few newsletters that are a must for front-end developers. So why not sign up to some email newsletters that will keep you current?&lt;/p&gt;
+
+&lt;p class=&quot;highlight&quot; style=&quot;border: 2px solid #b88b58;padding: 10px;&quot;&gt;
+Check out &lt;a href=&quot;http://www.webdesignernews.com/&quot;&gt;Webdesigner News&lt;/a&gt; for all the latest stories that matter to designers and developers from around the Web. They cover a range of topics, from vanilla web design to code demos, from branding to brand new apps. If it matters to our industry you’ll find it there in bite sized chunks, that are fun and easy to read.
+&lt;br /&gt;&lt;br /&gt;
+What makes them different from other design news sites is that it is curated by humans. They shortlist stories through social media response and then every single story is reviewed by industry experts.
+&lt;br /&gt;&lt;br /&gt;
+So take a moment to &lt;a href=&quot;http://www.webdesignernews.com/&quot;&gt;check them out&lt;/a&gt;, it will save you hours every week, by bringing you the vital stories of the day, every day.
+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gitat.me/&quot;&gt;Git@Me&lt;/a&gt; - Exploring open source. Weekly updates.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt; - Get 10 free, hi-res photos delivered to your inbox every 10 days.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thenounproject.com/about/&quot;&gt;The Noun Project&lt;/a&gt; - For icon lovers, monthly updates.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackingui.com/sign-up/&quot;&gt;Hacking UI&lt;/a&gt; - Hand-picked resources for designers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sidebar.io/&quot;&gt;Sidebar.io&lt;/a&gt; - Sidebar is a list of the 5 best design links of the day. But unlike a regular linkblog, it’s collaborative and manually curated by a couple great editors. You’ll receive the past day’s 5 best links every morning at 9.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://designcode.io/learn&quot;&gt;design+code&lt;/a&gt; - The best resources for learning iOS design and Xcode. Weekly links in your Inbox.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.siteinspire.com/&quot;&gt;siteInspire&lt;/a&gt; - siteInspire is a showcase of the finest web and interactive design.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.layervault.com/&quot;&gt;Designer News&lt;/a&gt; - Designer News is a place where the design community meets. Every Sunday you’ll receive a newsletter with the best stories of the week.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://litmus.com/subscribe&quot;&gt;Litmus&lt;/a&gt; - All the latest content for email marketing pros delivered to your inbox a few times a month.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webtoolsweekly.com/&quot;&gt;Web Tools Weekly&lt;/a&gt; - Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smashingmagazine.com/the-smashing-newsletter/&quot;&gt;The Smashing Email Newsletter&lt;/a&gt; - Editorial email newsletter twice a month with useful tips, tricks and resources for designers and developers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theuxnewsletter.com/&quot;&gt;The UX Newsletter&lt;/a&gt; - Tales of researching, designing, and building from &lt;a href=&quot;http://www.twitter.com/mailchimpux&quot;&gt;@MailChimpUX&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://feedburner.google.com/fb/a/mailverify?uri=tympanus&amp;amp;loc=en_US&quot;&gt;Codrops Collective&lt;/a&gt; - The Collective features the latest news and resources from the web design &amp;amp; web development community.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://frontenddevweekly.com/&quot;&gt;Front-end Dev Weekly&lt;/a&gt; -  Vital content for front-end web developers that will keep you current. Emailed to you each week, for free.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://html5weekly.com/&quot;&gt;HTML5 Weekly&lt;/a&gt; - A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://css-weekly.com/&quot;&gt;CSS Weekly&lt;/a&gt; - Weekly e-mail
+roundup of css articles, tutorials, experiments and tools.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://javascriptweekly.com/&quot;&gt;JavaScript Weekly&lt;/a&gt; - A free, once–weekly e-mail round-up of JavaScript news and articles.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://web-design-weekly.com/&quot;&gt;Web Design Weekly&lt;/a&gt; - A once a week email with no spam, no rambling. Just pure awesome links to the best news and articles to hit the interweb during the week.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://reallygoodemails.com/newsletter/&quot;&gt;Really Good Emails&lt;/a&gt; - You’ll get email updates of really good emails. Yes, that is meta.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://responsivedesignweekly.com/&quot;&gt;Responsive Design Weekly&lt;/a&gt; - A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://adripofjavascript.com/index.html&quot;&gt;A Drip of Javascript&lt;/a&gt; - One quick JavaScript tip, delivered to your inbox every other week.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sitepoint.com/newsletter/&quot;&gt;SitePoint&lt;/a&gt; - Very best and latest tutorials, tips, tricks, resources, and offers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.webdesignerdepot.com/newsletter/&quot;&gt;Web Designer Depot&lt;/a&gt; - Quick bits of news, inspirational resources as well as cool new products and services for designers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://line25.com/subscribe&quot;&gt;Line25&lt;/a&gt; - Web design ideas and inspiration through articles, tutorials and examples of stunning site designs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sassnews.com/&quot;&gt;Sass News&lt;/a&gt; - Tutorials, articles, workflow tips and all about SASS.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wdrl.info/&quot;&gt;Web Development Reading List&lt;/a&gt; - A handcrafted, carefully selected list of web development related resources. Published usually every week.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uxkingdom.com/&quot;&gt;UX Kingdom&lt;/a&gt; - UX Kingdom is a weekly e-mail with four links inside.  Each e-mail will have a great video, an engaging article, a slick UX related product, and a fun wild card.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.producthunt.com/&quot;&gt;Product Hunt&lt;/a&gt; - Get the best new product discoveries in your inbox daily.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hackernewsletter.com/&quot;&gt;Hacker Newsletter&lt;/a&gt; - A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://inboxpixels.com/&quot;&gt;Inbox Pixels&lt;/a&gt; - Design inspiration in your inbox every week, for free.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://designweekly.atomic.io/&quot;&gt;Product Design Weekly&lt;/a&gt; - Digital product design news, articles, showcases and resources, delivered straight to your inbox once a week.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thenuschool.com/&quot;&gt;NuSchool&lt;/a&gt; - Fresh Education For Creative Professionals.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Free Stock Photography Resources</title>
+		<link href="http://vilcins.lv/blog/2015/Free-Stock-Photography-Resources/" />
+		<id>http://vilcins.lv/blog/2015/Free-Stock-Photography-Resources/</id>
+		<published>2015-02-27T00:00:00+00:00</published>
+		<updated>2015-02-27T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">Since I started coding, photography has always been an integral part of web design to me. There are websites that offers you a wide variety of options for finding stock photography. Not all of these stock photos are for free and some of them cost money. Before you use them in your design projects, always make sure you understand the restrictions on a particular image before you use it.
+
+</summary>
+		<content type="html">&lt;p&gt;Since I started coding, photography has always been an integral part of web design to me. There are websites that offers you a wide variety of options for finding stock photography. Not all of these stock photos are for free and some of them cost money. Before you use them in your design projects, always make sure you understand the restrictions on a particular image before you use it.&lt;/p&gt;
+
+&lt;p&gt;List of websites with the best free stock photos I use in my projects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://compfight.com/&quot;&gt;Compfight&lt;/a&gt; - Compfight is an image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://crowthestone.com/&quot;&gt;Crow The Stone&lt;/a&gt; - Free photos to use any way you want. Subscribe to receive new photos directly to your inbox every week.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://deathtothestockphoto.com/&quot;&gt;Death to the Stock Photos&lt;/a&gt; - Images for your vibe and tribe. A fresh pack to your inbox each month, with awesome stories to match.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://foodiesfeed.com/&quot;&gt;Foodie’s Feed&lt;/a&gt; - Free food pictures in high resolution.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://foter.com/&quot;&gt;Foter&lt;/a&gt; - Allows you to search, manage and add free stock photos to blogs, forums, websites and other online media. We host over 190 million free Creative Commons images from many online sources and the entire system is also available as a WordPress plugin for seamless use within the WordPress platform.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.freeimages.com/&quot;&gt;Free Images&lt;/a&gt; - Huge gallery containing over 350.000 quality stock photos by more than 30.000 photographers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://freerangestock.com/&quot;&gt;Freerange Stock&lt;/a&gt; - Quality stock photos for commercial and non-commercial use for free.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fresh.twenty20.com/&quot;&gt;Fresh&lt;/a&gt; - Mobile photography marketplace - connecting the most talented mobile photographers with digital creators in need of imagery.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://getrefe.com/downloads/category/free/&quot;&gt;Refe&lt;/a&gt; - Royalty-free, high-quality, natural looking photos of people interacting with technology.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gratisography.com/&quot;&gt;Gratisography&lt;/a&gt; - Free high-resolution pictures you can use on your personal and commercial projects.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.imcreator.com/free&quot;&gt;IM Creator&lt;/a&gt; - A curated collection of free resources, all for commercial use.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stocksnap.io/&quot;&gt;StockSnap.io&lt;/a&gt; - Beautiful free stock photos. Hundreds of high resolution images added weekly. All photos are free from copyright restrictions - No attribution required.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unsplash.com/&quot;&gt;Unsplash&lt;/a&gt; - Free (do whatever you want) high-resolution photos.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.splitshire.com/&quot;&gt;SplitShire&lt;/a&gt; - Free high quality photos with no copyright restrictions and real look.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://littlevisuals.co/&quot;&gt;Little Visuals&lt;/a&gt; - Sign up to get 7 hi-res images zipped up in your inbox every 7 days. Use them anyway you want.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.lifeofpix.com/&quot;&gt;Life of Pix&lt;/a&gt; - Free high-resolution photos, no copyrights restrictions images for personal &amp;amp; commercial use. New photographies added weekly.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://superfamous.com/&quot;&gt;Superfamous&lt;/a&gt; - Photographs on this page are available under a CC Attribution 3.0 license.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://picjumbo.com/&quot;&gt;Pic Jumbo&lt;/a&gt; - Totally free photos for your commercial &amp;amp; personal works.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nos.twnsnd.co/&quot;&gt;New Old Stock&lt;/a&gt; - Vintage photos from the public archives. Free of known copyright restrictions.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lockandstockphotos.com/&quot;&gt;Lock and Stock Photos&lt;/a&gt; - Photos under the Creative Commons License ShareAlike 4.0.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://snapwiresnaps.tumblr.com/&quot;&gt;Snapwire Snaps&lt;/a&gt; - 7 hand-picked snaps every 7 days (free to use).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jaymantri.com/&quot;&gt;Jay Mantri&lt;/a&gt; - Free pics. Do anything (CC0). Make magic.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://magdeleine.co/browse/&quot;&gt;Magdeleine&lt;/a&gt; - Hand-picked free photos for your inspiration.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.morguefile.com/&quot;&gt;Morgue File&lt;/a&gt; - High resolution stock photos for your illustration, comp or design needs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://moveast.me/&quot;&gt;Moveast&lt;/a&gt; - This is a journey of a portuguese guy moving east that decided that every photo should be used for free. Help yourselves and use them wherever you want (CC0).&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thepatternlibrary.com/&quot;&gt;The Pattern Library&lt;/a&gt; - Patterns shared by the most talented designers out there for you to use freely in your designs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pexels.com/&quot;&gt;Pexels&lt;/a&gt; - Best free stock photos in one place.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.photogen.com/&quot;&gt;Photogen&lt;/a&gt; - Quality, high-res FREE stock photos and images.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pickupimage.com/&quot;&gt;Pickup Image&lt;/a&gt; - Pickupimage is the largest collections of free photographs. Free download high quality premium free stock images, public domain photos. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://picography.co/&quot;&gt;Picography&lt;/a&gt; - Free hi-resolution photos. Use them however you like.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rgbstock.com/&quot;&gt;RGB Stock&lt;/a&gt; - 100% free stock photos more than 100,000 stock photos available.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://startupstockphotos.com/&quot;&gt;Startup Stock Photos&lt;/a&gt; - Take ‘em, these things are free. Go. Make something.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://isorepublic.com/&quot;&gt;ISO Republic&lt;/a&gt; - High-quality, free photos for creatives.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thestocks.im/&quot;&gt;The Stocks&lt;/a&gt; - Search 16 high-quality, free stock photo websites in one place.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://travelcoffeebook.com/&quot;&gt;Travel Coffe Book&lt;/a&gt; - Sharing beautiful travel moments. 10 new photos every 10 days. All photos are listed under cc0.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://finda.photo/&quot;&gt;Find A Photo&lt;/a&gt; - 100% free stock images from them all. Browse by color, collection and source.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://albumarium.com/&quot;&gt;Albumarium&lt;/a&gt; - The best place to find &amp;amp; share beautiful images.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://freenaturestock.com/&quot;&gt;Free Nature Stock&lt;/a&gt; - Royalty-free Nature Stock Photos. Use them however you want.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://beststockphotofree.com/&quot;&gt;Best Stock Photo Free&lt;/a&gt; - Is a collection of beautiful photos. High quality. Creative Commons licensed photos are made available. The website is created as a hobby. Every week there are new pictures.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sitebuilderreport.com/stock-up&quot;&gt;Stock Up&lt;/a&gt; - Search 21 high-quality, free stock photo websites in one place.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Sublime Text packages for Front-end Development</title>
+		<link href="http://vilcins.lv/blog/2015/Sublime-Text-packages-for-Front-end-Development/" />
+		<id>http://vilcins.lv/blog/2015/Sublime-Text-packages-for-Front-end-Development/</id>
+		<published>2015-02-20T00:00:00+00:00</published>
+		<updated>2015-02-20T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">Sublime Text is my favorite text editor for code and it’s the most beautiful editor I have laid eyes on. I just love it! So I created list of packages I use every day.
+
+</summary>
+		<content type="html">&lt;p&gt;Sublime Text is my favorite text editor for code and it’s the most beautiful editor I have laid eyes on. I just love it! So I created list of packages I use every day.&lt;/p&gt;
+
+&lt;p&gt;In case you don’t know how to install “Package Control”, the simplest method of installation is through the Sublime Text console. The console is accessed via the &lt;code&gt;ctrl+`&lt;/code&gt; shortcut or the &lt;code&gt;View &amp;gt; Show Console&lt;/code&gt; menu. Once open, paste the appropriate Python code for your version of Sublime Text into the console. Which is available &lt;a href=&quot;https://packagecontrol.io/installation&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/CSS3&quot;&gt;CSS3&lt;/a&gt; - The most complete CSS support for Sublime Text 3.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/SCSS&quot;&gt;SCSS&lt;/a&gt; - The TextMate SCSS Official Bundle.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax&quot;&gt;Java​Script​Next - ES6 Syntax&lt;/a&gt; - JavaScript language definition for TextMate and Sublime Text 2.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/Stylus&quot;&gt;Stylus&lt;/a&gt; - Stylus Package for Sublime Text 2 / 3.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/titoBouzout/SideBarEnhancements&quot;&gt;Sidebar Enhancements&lt;/a&gt; - Enhancements to Sublime Text sidebar. Files and folders.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wbond.net/sublime_packages/alignment&quot;&gt;Alignment&lt;/a&gt; - Dead-simple alignment of multi-line selections and multiple selections.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/randy3k/AlignTab&quot;&gt;AlignTab&lt;/a&gt; - An alignment plugin using regular expression.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/facelessuser/BracketHighlighter&quot;&gt;Bracket Highlighter&lt;/a&gt; - Bracket and tag highlighter.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sergeche/emmet-sublime&quot;&gt;Emmet&lt;/a&gt; - Emmet (ex-Zen Coding) for Sublime Text.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sublimelinter.com/en/latest/&quot;&gt;Sublime Linter&lt;/a&gt; - SublimeLinter is a plugin for Sublime Text 3 that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kemayo/sublime-text-2-clipboard-history&quot;&gt;Clipboard History&lt;/a&gt; - Clipboard history plugin for Sublime Text 2.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/weslly/ColorPicker&quot;&gt;Color Picker&lt;/a&gt; - Color picker for Sublime Text.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bistory/Sublime-Minifier&quot;&gt;Sublime Minifier&lt;/a&gt; - Sublime Text CSS and JS minifier.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/jQuery&quot;&gt;j​Query&lt;/a&gt; - Sublime Text package bundle for jQuery.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/Color%20Highlighter&quot;&gt;Color Highlighter&lt;/a&gt; - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like &lt;code&gt;#FFFFFF&lt;/code&gt;, &lt;code&gt;rgb(255,255,255)&lt;/code&gt;, &lt;code&gt;white&lt;/code&gt;, etc.) with their real color. Also, plugin adds color picker to easily modify colors.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/MultiEditUtils&quot;&gt;Multi​Edit​Utils&lt;/a&gt; - A Sublime Text Plugin which enhances editing of multiple selections.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/Modific&quot;&gt;Modific&lt;/a&gt; - Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/Base16%20Color%20Schemes&quot;&gt;Base​16 Color Schemes&lt;/a&gt; - Base16 for TextMate &amp;amp; Sublime.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/SASS%20Snippets&quot;&gt;SASS Snippets&lt;/a&gt; - Sass Snippets for Sublime.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://packagecontrol.io/packages/Liquid&quot;&gt;Liquid&lt;/a&gt; - Liquid Templates in Sublime.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/victorporof/Sublime-HTMLPrettify&quot;&gt;HTML Prettify&lt;/a&gt; - HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JasonMortonNZ/bs3-sublime-plugin&quot;&gt;Twitter Bootstrap 3 Snippets&lt;/a&gt; - Twitter Bootstrap 3 Snippets Plugin for Sublime Text 2/3.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/aaronpowell/sublime-jquery-snippets&quot;&gt;jQuery Snippets&lt;/a&gt; - Code snippets for developing with jQuery.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tadast/sublime-rails-snippets&quot;&gt;Rails Snippets&lt;/a&gt; - Sublime Text snippets for the latest Ruby and Rails versions.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/angular-ui/AngularJS-sublime-package&quot;&gt;AngularJS&lt;/a&gt; - AngularJS code completion, snippets, go to definition, quick panel search, and more.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/danro/Less-sublime&quot;&gt;LESS&lt;/a&gt; - LESS syntax highlighting for Sublime Text.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Stubbs/sublime-vagrant&quot;&gt;Vagrant&lt;/a&gt; - Vagrant commands for Sublime Text.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/braindamageinc/SublimeHttpRequester&quot;&gt;Http Requester&lt;/a&gt; - HTTP client plugin for Sublime Text 2 &amp;amp; 3.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/revolunet/sublimetext-markdown-preview&quot;&gt;Markdown Preview&lt;/a&gt; - Markdown preview and build plugin for sublime text 2/3.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hachesilva/Comment-Snippets&quot;&gt;Comment Snippets&lt;/a&gt; - Several snippets to create fancy PHP, CSS and HTML comments.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sublimegit.net/&quot;&gt;Sublime Git&lt;/a&gt; - Full-featured Git integration for Sublime Text 2 and 3.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/spadgos/sublime-jsdocs&quot;&gt;DocBlockr&lt;/a&gt; - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C &amp;amp; C++.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/condemil/Gist&quot;&gt;Gist&lt;/a&gt; - Sublime Text plugin for creating new Gists from selected text.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Alfred Workflows for Front-end Developers</title>
+		<link href="http://vilcins.lv/blog/2015/Alfred-workflows-for-Front-end-Developers/" />
+		<id>http://vilcins.lv/blog/2015/Alfred-workflows-for-Front-end-Developers/</id>
+		<published>2015-02-07T00:00:00+00:00</published>
+		<updated>2015-02-07T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">I have been using Alfred app since I switched to OS X and it’s awesome. So, here is a list of useful workflows I use.
+
+</summary>
+		<content type="html">&lt;p&gt;I have been using Alfred app since I switched to OS X and it’s awesome. So, here is a list of useful workflows I use.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ngreenstein/alfred-process-killer&quot;&gt;Kill Process&lt;/a&gt; - Kill Process is an Alfred 2 workflow that makes it easy to kill misbehaving processes. It is, in essence, a way to easily find processes by name and kill them using &lt;code&gt;kill -9&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.zibity.com/goodies.html&quot;&gt;Run Terminal Command&lt;/a&gt; - Lets you run any Terminal command without having to launch Terminal. To use, type ‘run [command]’.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ruedap/alfred2-font-awesome-workflow&quot;&gt;Font Awesome Icon Fonts&lt;/a&gt; - You can incremental search for Font Awesome Icon Fonts and paste it to front most app.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/willfarrell/alfred-cdn-workflow&quot;&gt;CDN&lt;/a&gt; - Check which CDNs a package is hosted on.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/willfarrell/alfred-caniuse-workflow&quot;&gt;Can I use&lt;/a&gt; - Workflow for caniuse.com.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dferg.us/ip-address-workflow/&quot;&gt;IP Address&lt;/a&gt; - A very simple workflow that executes as soon as the keyword (‘ip’) is matched and shows your internal and external IP address. Pressing Enter to action the item will paste it into the frontmost application, or you can press Cmd+C to copy the selected IP address to your clipboard.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@clarklab/starting-a-sass-workflow-with-alfred-14f88903602a&quot;&gt;SASS&lt;/a&gt; - Starting a SASS workflow with Alfred.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/isometry/alfredworkflows/tree/master/net.isometry.alfred.ssh&quot;&gt;SSH&lt;/a&gt; - A workflow for Alfred to rapidly open a Secure SHell (ssh) sessions with smart hostname autocompletion based on the contents of &lt;code&gt;~/.ssh/known_hosts&lt;/code&gt;, &lt;code&gt;~/.ssh/config&lt;/code&gt;, &lt;code&gt;/etc/hosts&lt;/code&gt; and (optionally) Bonjour.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jgallen23/layouts&quot;&gt;Layouts&lt;/a&gt; - Layouts is an applescript and an alfred extension to easily move and resize application windows.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.alfredforum.com/topic/805-colors%E2%80%94convert-color-formats-access-the-os-x-color-panel/&quot;&gt;Colors&lt;/a&gt; - This workflow can process and convert all CSS color formats and several Objective-C formats, namely NSColor (calibrated and device) and UIColor. It also provides an interface to the OS X color panel for easier color manipulations.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/phpfunk/alfred-caffeine-controls&quot;&gt;Caffeine Controls&lt;/a&gt; - An AppleScript so you can easily control Caffeine from Alfred App.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/bigluck/alfred2-transmit&quot;&gt;Transmit Favorites&lt;/a&gt; - A simple Alfred 2 workflow with Transmit 2 support.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text&quot;&gt;Open with Sublime Text&lt;/a&gt; - Open files or a folders in Sublime Text v3 by using a Keyword &lt;code&gt;subl&lt;/code&gt; or by file/folder action.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/willfarrell/alfred-dash-workflow&quot;&gt;Dash Documentation Lookup&lt;/a&gt; - Dash comes with default Alfred 2 Workflow. This is an extension to that by shortening the keyword filters for each language. Does not require online connection.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/LeEnno/alfred-terminalfinder&quot;&gt;Alfred-terminalfinder&lt;/a&gt; - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/willfarrell/alfred-pkgman-workflow&quot;&gt;Package Managers&lt;/a&gt; - Quick package/plugin/component (repo) lookup for your favourite package managers. Currently supports Alcatraz to Yeoman Generators.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dingyi/Alfred-Workflows/tree/master/Domainr&quot;&gt;Domainr&lt;/a&gt; - Find domains quickly using Domainr’s API.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zhaocai/alfred2-sourcetree-workflow&quot;&gt;Source Tree&lt;/a&gt; - Alfred 2 Workflow to list, search, and open Source Tree repositories in Alfred.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gharlan/alfred-github-workflow&quot;&gt;GitHub&lt;/a&gt; - GitHub command bar.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/xhinking/Alfred&quot;&gt;StackOverflow&lt;/a&gt; - Programming answers from StackOverflow, right in Alfred.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://designandsuch.com/work/alfred-workflow-units&quot;&gt;Units&lt;/a&gt; - ‘Units’ is an Alfred Workflow that convert all kinds of units. It uses a smart interpretation system so no matter the way you type it.. it Will find the correct unit. Units also supports currency conversion with daily exchange rate updates.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/willfarrell/alfred-encode-decode-workflow&quot;&gt;Encode / Decode&lt;/a&gt; - Encoding and decoding a string into multiple variations.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.packal.org/workflow/colors&quot;&gt;Colors&lt;/a&gt; - Converts color formats (e.g. turquoise → #40E0D0). Creates code notations of colors from the OS X color panel&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Best time tracking apps for Freelancers</title>
+		<link href="http://vilcins.lv/blog/2015/Best-time-tracking-apps-for-Freelancers/" />
+		<id>http://vilcins.lv/blog/2015/Best-time-tracking-apps-for-Freelancers/</id>
+		<published>2015-01-24T00:00:00+00:00</published>
+		<updated>2015-01-24T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">I have been bookmarking some of the best time tracking apps which will help you to simplify and be more productive.
+
+</summary>
+		<content type="html">&lt;p&gt;I have been bookmarking some of the best time tracking apps which will help you to simplify and be more productive.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.timelyapp.com/&quot;&gt;Timely&lt;/a&gt; (Webapp, iOS) - Scheduling and time tracking, simultaneously. The time tracking app to end time tracking.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.thrivesolo.com/&quot;&gt;Solo&lt;/a&gt; (Webapp) - Smart, Flexible time tracking you will fall in love with.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://timeedition.com/en/index.html&quot;&gt;Time Edition&lt;/a&gt; (Android) - time tracking made easy.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.getchime.com/&quot;&gt;Chime&lt;/a&gt; (Webapp) - Use Chime to estimate how long it takes you to do your job. Send results to clients and get your money.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://timingapp.com/&quot;&gt;Timing for Mac&lt;/a&gt; (OS X) - Timing automatically tracks which documents you are editing, which applications you use, and the domains of the websites you visit. Afterwards, just drag and drop activities into projects. There are some default categories, but you are free to customize them!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.toggl.com/&quot;&gt;Toggl&lt;/a&gt; (Webapp) - Insanely simple time tracking. Toggl kills timesheets.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.getharvest.com/&quot;&gt;Harvest&lt;/a&gt; (Webapp, iOS, Android) - Whether it’s from the web, your smartphone or another application, it’s never been so easy to track time. With a simple, intuitive interface, getting you and your team on board is fast and easy.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hrmacapp.com/&quot;&gt;hr&lt;/a&gt; (OS X) - Task timer as simple as its name.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cubeanywhere.com/&quot;&gt;Cube&lt;/a&gt; (Webapp, iOS, Android) - Cube is perfect for businesses, contractors, consultants, developers and freelancers that need to track their time and expenses and keep tabs on project costs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mite.yo.lk/en/&quot;&gt;mite&lt;/a&gt; (Webapp) - mite is the simplest and prettiest way to track your time. Enter your hours manually or use our timer. Analyze the clear reports within mite or export them to third party programs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.overcommitted.com/tictoc/&quot;&gt;Tictoc&lt;/a&gt; (OS X) - Tictoc is the simple solution to your time tracking needs. It sits in your menubar ready when you need it.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hourstimetracking.com/&quot;&gt;Hours&lt;/a&gt; (iOS) - With a visual timeline of your time, smart reminders, detailed reporting, and an interface crafted by Tapity’s Apple-Design-Award-winning team, Hours makes a tedious task (almost) fun.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://letsfreckle.com/&quot;&gt;Freckle&lt;/a&gt; (Webapp) - “Our biggest issue was people forgot to track their time.”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.officetime.net/&quot;&gt;Office Time&lt;/a&gt; (OS X, PC, Android, iOS) - Elegant, intuitive time &amp;amp; expense keeping for Mac, PC, iPhone and iPad.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://freelyapp.com/&quot;&gt;Freely&lt;/a&gt; (iOS, OS X and Apple watch coming soon) - Boost your productivity by tracking your time. Make projects, tasks and track time on them. Add the tracked time to an invoice an send it to your client. See your weekly workload.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tiempoapp.com/&quot;&gt;Tiempo&lt;/a&gt; (Webapp, iOS, Android) - Free for tracking time and sending online invoices. Only costs money if you use us to accept credit cards online or pay contractors.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.paymoapp.com/&quot;&gt;Paymo&lt;/a&gt; (Webapp, iOS, Android, PC, OS X) - Simple online project management application that bundles task management, time tracking and invoicing.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tyme-app.com/&quot;&gt;Tyme&lt;/a&gt; (OS X, iOS) - Tyme is an easy to use time tracking application for freelancers, small companies and anyone who wants to keep an overview of their times worked.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://motivapp.com/&quot;&gt;Motiv&lt;/a&gt; (Webapp, Mac, PC, Android, iOS) - All-in-One Business Management App
+for creative freelancers and agencies.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dayswork.co/&quot;&gt;Dayswork&lt;/a&gt; (Webapp) - Dayswork makes it easy for freelancers and teams to record what they’ve worked on and invoice their clients quickly and accurately.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trackingtime.co/&quot;&gt;TrackingTime&lt;/a&gt; (Webapp, iOS) - TrackingTime is a collaboration app that helps companies manage their projects and tasks, track working times and measure productivity.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://saus.us/&quot;&gt;Saus&lt;/a&gt; (Webapp) - Saus makes time tracking fast and easy, so you can use your valuable time for more important things.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.timeneye.com/&quot;&gt;Timeneye&lt;/a&gt; (Webapp, iOS, Android) - Easily track time with the web app or on the go. Spend more time making amazing things and less tracking your time.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tickspot.com&quot;&gt;Tick&lt;/a&gt; (PC, Android, iOS) - Tick gives you the most direct way to track your time against a budget. Whether you’re a freelancer or have hundreds of employees, Tick makes time tracking less of a hassle and more of a streamlined communication tool.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">A list of Front-end related conferences in Europe (2015)</title>
+		<link href="http://vilcins.lv/blog/2015/A-list-of-Front-end-related-conferences-in-Europe/" />
+		<id>http://vilcins.lv/blog/2015/A-list-of-Front-end-related-conferences-in-Europe/</id>
+		<published>2015-01-22T00:00:00+00:00</published>
+		<updated>2015-01-22T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">This is a list of front-end related conferences. I thought it would be a great to share with everyone who’s into front-end development and UX. Here’s my list of favorites:
+
+</summary>
+		<content type="html">&lt;p&gt;This is a list of front-end related conferences. I thought it would be a great to share with everyone who’s into front-end development and UX. Here’s my list of favorites:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fitc.ca/event/am15/&quot;&gt;FITC Amsterdam&lt;/a&gt; - February 23-24, Amsterdam, Netherlands&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://conference.awwwards.com/&quot;&gt;Awwwards Conference&lt;/a&gt; - February 24-25, Barcelona, Spain&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.uxriga.lv/&quot;&gt;UX Riga&lt;/a&gt; - February 26, Riga, Latvia&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jqueryuk.com/2015&quot;&gt;jQuery UK&lt;/a&gt; - March 6, Oxford City, UK&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://conc.at/&quot;&gt;.concat()&lt;/a&gt; - March 7, Salzburg, Austria&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ongamestart.com/&quot;&gt;onGamestart&lt;/a&gt; - March 11-13, Warsaw, Poland&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.smashingconf.com/&quot;&gt;SmashingConf&lt;/a&gt; - March 17-18, Oxford, UK&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mobilism.nl/2015&quot;&gt;Mobilism&lt;/a&gt; - March 27, Amsterdam, Netherlands&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dotyork.com/conference&quot;&gt;DotYork&lt;/a&gt; - April 9, York, UK&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bulgariawebsummit.com/&quot;&gt;Bulgaria Web Summit&lt;/a&gt; - April 18, Sofia, Bulgaria&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://naked-js.com/&quot;&gt;Naked.js&lt;/a&gt; - April 22, Norwich City, UK&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://2015.industryconf.com/&quot;&gt;Industry Conf&lt;/a&gt; - April 22, Newcastle upon Tyne, UK&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://futureofwebdesign.com/london-2015/&quot;&gt;Future of Web Design&lt;/a&gt; - April 27-29, London, UK&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://front-trends.com/&quot;&gt;Front-Trends&lt;/a&gt; - May 6-8, Warsaw, Poland&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://scotlandjs.com/&quot;&gt;Scotland JS&lt;/a&gt; - May 7-8, Edinburgh, Scotland&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://beyondtellerrand.com/&quot;&gt;Beyond Tellerrand&lt;/a&gt; - May 11-13, Dusseldorf, Germany&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://upfrontconf.com/&quot;&gt;UpFront&lt;/a&gt; - May 19, Manchester, UK&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cssday.nl/&quot;&gt;CSSDay&lt;/a&gt; - June 12, Amsterdam, Netherlands&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://angularconnect.com/&quot;&gt;AngularConnect&lt;/a&gt; - October 20 - 21, London&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+	<entry>
+		<title type="text">Photoshop Extensions for Front-end Developers</title>
+		<link href="http://vilcins.lv/blog/2015/Photoshop-extensions-for-frontend-developers/" />
+		<id>http://vilcins.lv/blog/2015/Photoshop-extensions-for-frontend-developers/</id>
+		<published>2015-01-03T00:00:00+00:00</published>
+		<updated>2015-01-03T00:00:00+00:00</updated>
+		<author>
+			<name>Ronalds Vilcins</name>
+			<uri>http://vilcins.lv/</uri>
+		</author>
+		<summary type="html">Photoshop has it’s limitations, which means we have to find other ways around certain problems. Today I’m showcasing some of the best photoshop extensions for front-end developers to speed up workflow.
+
+</summary>
+		<content type="html">&lt;p&gt;Photoshop has it’s limitations, which means we have to find other ways around certain problems. Today I’m showcasing some of the best photoshop extensions for front-end developers to speed up workflow.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://csshat.com/&quot;&gt;CSS Hat 2&lt;/a&gt; - Select any Photoshop Layer and get CSS instantly.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cutandslice.me/&quot;&gt;Cut&amp;amp;Slice Me&lt;/a&gt; - Use Cut&amp;amp;Slice me to export your assets to different devices in seconds. Improve your workflow by just naming your layers.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://css3ps.com/&quot;&gt;CSS3Ps&lt;/a&gt; - Free cloud based photoshop plugin that converts your layers to CSS3.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.madebyvadim.com/layrs/&quot;&gt;Layrs Control 2&lt;/a&gt; - Free Photoshop extension. A collection of 7 scripts that make tedious job easier.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blendme.in/&quot;&gt;BlendMe.In&lt;/a&gt; - Lets you search through thousands of SVG icons and vector objects right inside Photoshop itself.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.invisionapp.com/lsps-download&quot;&gt;LiveShare&lt;/a&gt; - InVision extension – LiveShare lets you transform your designs into beautiful, interactive web &amp;amp; mobile ( iOS, Android) mockups and prototypes.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.divine-project.com/&quot;&gt;Devine Elemente&lt;/a&gt; - Allows you to convert a layered PSD file into a full WordPress website including HTML, CSS and PHP files.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://guideguide.me/&quot;&gt;GuideGuide&lt;/a&gt; - Creates guides and grids based on your document or the selection.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://klaia.com/Renamy/&quot;&gt;Renamy&lt;/a&gt; - Multiple layers renaming Photoshop plugin. You can select a lot of layers and rename it in 1 click. Find and Replace. Use simple text find and replace for layer names.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://webzap.uiparade.com/&quot;&gt;Web Zap&lt;/a&gt; - Create website mock-ups in Photoshop super fast with this great plugin. Web Zap allows you to drag and drop website elements from and library of thousands of styles and components.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.flaticon.com/download-plugin&quot;&gt;Flaticon&lt;/a&gt; - Use the FlatIcon plugin to quickly find the icons you need for your design, without leaving your working environment. 63,914 icons available.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://socialkit.madebysource.com/&quot;&gt;Social Kit&lt;/a&gt; - Cover images, profile pictures and ad banners in a free up-to-date Photoshop plugin.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pixeldropr.com/&quot;&gt;PixelDropr&lt;/a&gt; - PixelDropr lets you save your elements and other objects of a project to be used at any time in other projects.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.extensis.com/fr/font-management/web-font-plug-in/&quot;&gt;Extensis&lt;/a&gt; - Google Web Fonts right from within Photoshop.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bounce.uiparade.com/&quot;&gt;Bounce&lt;/a&gt; - Intergrate Dribbble into your design apps.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ink.chrometaphore.com/&quot;&gt;Ink&lt;/a&gt; - A photoshop documentor plugin.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://creativemarket.com/wuwacorp/12478-SpecKing-Photoshop-Plugin&quot;&gt;SpecKing&lt;/a&gt; - SpecKing is a Photoshop plugin that provides tools to generate design specs and annotations in a fast and easy way - saving you hours of work!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://oven.chrometaphore.com/&quot;&gt;Oven&lt;/a&gt; - Oven it’s a Photoshop plugin that helps you generate layers ready to be exported for iOS and Android.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/romashamin/Size-Marks-PS#install&quot;&gt;Size Marks&lt;/a&gt; - Size Marks is a helpful Photoshop script for web designers and front-end engineers. Script converts rectangular marquee to labeled measurement mark. Landscape marquee → horizontal mark. Portrait or square marquee → vertical mark.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://plugin.subtlepatterns.com/&quot;&gt;Subtle Patterns&lt;/a&gt; - Imagine the immense library from Subtle Patterns, fed directly into your Photoshop panel – always in sync!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dandkagency.com/extensions/velositey-v2/&quot;&gt;Velositey&lt;/a&gt; - Prototype the design of your website in seconds in Photoshop.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://creativedo.co/FontAwesomePS&quot;&gt;Font Awesome&lt;/a&gt; - Font Awesome icons right inside Adobe Photoshop.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tools.enotart.ru/&quot;&gt;Duplllicator&lt;/a&gt; - Clone layer or group and shift it horizontally or vertically with this extension.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+
+</feed>

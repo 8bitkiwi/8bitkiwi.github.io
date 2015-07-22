@@ -1,0 +1,358 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>CSS hacks you may not know</title>
+
+    <meta name="description" content="This is a collection of short CSS snippets I thought might be useful for beginners. If you’re experienced with CSS you’ll have seen most of these tips and tr...">
+
+    <link rel="author" href="https://plus.google.com/+">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="generator" content="Jekyll v2.4.0">
+
+    <link rel="shortcut icon" href="../../../favicon.ico" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="../../../apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../../../apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../../../apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../../../apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../../../apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../../../apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../../../apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../../../apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="../../../android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../../../favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../../favicon-16x16.png">
+    <link rel="manifest" href="../../../manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#222222">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@ronaldsvilcins">
+    <meta name="twitter:creator" content="@ronaldsvilcins">
+    <meta name="twitter:title" content="CSS hacks you may not know">
+    <meta name="twitter:description" content="This is a collection of short CSS snippets I thought might be useful for beginners. If you’re experienced with CSS you’ll have seen most of these tips and tr...">
+    <meta name="twitter:image" content="http://vilcins.lv/img/logo.png">
+    <meta name="twitter:url" content="http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/">
+
+
+
+
+    <meta property="og:title" content="CSS hacks you may not know">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/">
+    <meta property="og:image" content="http://vilcins.lv/img/logo.png">
+    <meta property="og:description" content="This is a collection of short CSS snippets I thought might be useful for beginners. If you’re experienced with CSS you’ll have seen most of these tips and tr...">
+    <meta property="og:site_name" content="Ronalds Vilcins">
+    <meta property="og:locale" content="en_us">
+
+    
+
+    
+    <meta property="article:published_time" content="2015-05-22T00:00:00+00:00">
+    <meta property="article:author" content="https://www.facebook.com/ronalds.vilcins">
+      
+    <meta property="og:see_also" content="http://vilcins.lv/blog/2015/Places-where-learn-how-to-code/">
+      
+    <meta property="og:see_also" content="http://vilcins.lv/blog/2015/Resources-for-creating-a-typeface/">
+      
+    <meta property="og:see_also" content="http://vilcins.lv/blog/2015/Powerful-CSS-tools/">
+      
+    
+
+    
+      
+    
+
+    
+      
+    <meta property="article:tag" content="css">
+      
+    
+    <meta property="fb:admins" content="http://facebook.com/ronalds.vilcins">
+    <meta property="fb:app_id" content="162151797206468">
+
+    <link rel="canonical" href="index.html" />
+    <link rel="alternate" type="application/atom+xml" href="../../feed.atom" />
+
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="http://code.cdn.mozilla.net/fonts/fira.css">
+
+    <link rel="stylesheet" href="../../../css/style.css">
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-34932398-3', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div class="page-wrap">
+
+
+<section class="main-header regular">
+
+    <div class="vertical-container">
+
+    	<div class="wrapper clearfix">
+
+	        <header>
+	        	<a href="../../../index.html">
+		            <h1 id="main-title">Ronalds Vilcins</h1>
+	        	</a>
+	        </header>
+
+	        <nav id="main-nav" role="navigation">
+				<a href="../../../about/index.html" class="">About</a>
+				<a href="../../index.html" class="">Blog</a>
+				<a href="../../../contact/index.html" class="">Contact</a>
+			</nav>
+
+		</div>
+
+    </div>
+
+</section>
+
+
+<article class="main-content">
+
+    <div class="wrapper">
+
+        <header class="section-header">
+            <h1 class="section-title">CSS hacks you may not know</h1>
+            <span class="section-subtitle"><time datetime="2015-05-22 00:00:00 +0000" pubdate>22 May 2015</time>
+              , Taggged in: <a href="../../tags/css.html">css</a>
+							</p></span>
+        </header>
+
+        <section class="post-content">
+          
+        	<p>This is a collection of short CSS snippets I thought might be useful for beginners. If you’re experienced with CSS you’ll have seen most of these tips and tricks before, but who knows maybe you can find one or two you haven’t seen before. </p>
+
+<ul>
+  <li>Unicode classes</li>
+</ul>
+
+<p>You can use unicode characters for class names in your HTML, and even use write CSS selectors with those same characters.</p>
+
+<pre>
+.♫ {
+   background: #222;
+   color: #FFF;
+}
+.ಠ_ಠ {
+	background: #ccc;
+	color: #fff;
+}
+</pre>
+
+<ul>
+  <li>Remove input outline for WebKit browsers</li>
+</ul>
+
+<pre>
+input[type="text"]:focus {
+  outline: none;
+}
+</pre>
+
+<p>And orange outline won’t show up anymore.</p>
+
+<ul>
+  <li>Opacity in all major browsers</li>
+</ul>
+
+<p>As you know older browsers have different ways of controlling the opacity or transparency.</p>
+
+<pre>
+div {
+opacity:0.4;
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)"; /* IE8 */
+filter: alpha(opacity=40); /* IE 5-7  */
+}
+</pre>
+
+<ul>
+  <li>Property text-decoration is now a shorthand</li>
+</ul>
+
+<pre>
+a {
+  text-decoration: overline red wavy;
+}
+</pre>
+
+<p>Currently works only in Firefox.</p>
+
+<ul>
+  <li>Background new values</li>
+</ul>
+
+<p>Correct syntax for all background properties is:</p>
+
+<pre>
+div {
+	background:
+		[background-image]
+		[background-position]
+		[/ background-size]
+		[background-repeat]
+		[background-attachment]
+		[background-origin]
+		[background-clip]
+		[background-color];
+}
+</pre>
+
+<ul>
+  <li>Specifying page breaks for printing using CSS</li>
+</ul>
+
+<pre>
+.page-break { 
+    page-break-before: always;
+}
+</pre>
+
+<ul>
+  <li>Capitalize Text</li>
+</ul>
+
+<pre>
+p {
+   text-transform: capitalize; 
+}
+</pre>
+
+<ul>
+  <li>Consistent base font size</li>
+</ul>
+
+<pre>
+body { 
+     font-size:62.5%; 
+}
+</pre>
+
+<p>Setting the <code>font-size</code> property to 62.5% in <code>body</code> makes 1em equal to 10px.</p>
+
+<ul>
+  <li>Reading HTML attribute values from CSS</li>
+</ul>
+
+<pre>
+a:hover:after {
+      content: attr(title);
+}
+</pre>
+
+<ul>
+  <li>A one-liner to target Webkit browsers</li>
+</ul>
+
+<pre>
+.selector:not(*:root) { 
+      property:value; 
+}
+</pre>
+
+<ul>
+  <li>A Media Query to target Webkit browsers</li>
+</ul>
+
+<pre>
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+   .selector { 
+       property:value; 
+ } 
+}
+</pre>
+
+<ul>
+  <li>Target old versions of Internet Explorer</li>
+</ul>
+
+<p>Easily target IE8 and older versions. Yes, I know it’s 2015, but I recently used this hack :D</p>
+
+<pre>
+.element {
+  color: black;
+  color: green\9; /* IE8 and older */
+  *color: blue; /* IE7 and older */
+  _color: red; /* IE6 and older */
+}
+</pre>
+
+<ul>
+  <li>Add a left margin of 10px to all paragraphs in all browsers (except Opera 9 and below)</li>
+</ul>
+
+<pre>
+p {
+  margin-left: 10px;
+}
+
+html:first-child p {
+  margin-left: 0;
+}
+</pre>
+
+<p>P.S. If you know of any other good ones, please contact me via twitter or email, i will add.</p>
+
+
+
+            <div class="post-nav">
+
+
+                  <a class="button" href="https://twitter.com/home?status=CSS%20hacks%20you%20may%20not%20know+http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/%20by%20@RonaldsVilcins" target="_blank"><i class="fa fa-twitter"></i></a>
+                  <a class="button" href="https://www.facebook.com/share.php?u=http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/&title=CSS%20hacks%20you%20may%20not%20know" target="_blank"><i class="fa fa-facebook"></i>
+</a>
+                  <a class="button" href="https://plus.google.com/share?url=http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/" target="_blank"><i class="fa fa-google-plus"></i>
+</a>
+
+
+            </div>
+
+        </section>
+
+    </div>
+
+</article>
+
+    </div>
+
+<footer class="main-footer">
+
+    <div class="vertical-container">
+
+        <div class="wrapper">
+        </div>
+
+    </div>
+
+</footer>
+
+
+</body>
+</html>
