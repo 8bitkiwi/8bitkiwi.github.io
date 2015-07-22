@@ -1,2 +1,2 @@
-User-agent: * 
-Sitemap: http://vilcins.lv/sitemap.xml
+User-agent: *
+Sitemap: http://8bit.kiwi/sitemap.xml
